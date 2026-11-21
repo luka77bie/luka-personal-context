@@ -1,0 +1,63 @@
+claims:
+  - id: EDU-001
+    statement: "Jiacheng Bie studies BSc Economics at the University of Manchester."
+    sources: [SRC-CV, SRC-APPLICANT]
+    status: supported_by_applicant_materials
+  - id: EDU-002
+    statement: "The reported Year 2 average is 67; the 2026-10-07 interim transcript was previously reported to show 72 in ECON20110 and 72 in ECON20120."
+    sources: [SRC-APPLICANT, SRC-TRANSCRIPT-REFERENCE]
+    status: owner_reported_transcript_not_reopened
+    allowed_use: working_context
+  - id: EDU-003
+    statement: "Housing coursework/module mark and official predicted degree classification await authoritative confirmation."
+    sources: [SRC-CV, SRC-ADVISOR, SRC-PLAN]
+    status: unresolved
+    allowed_use: internal_only
+  - id: HOU-001
+    statement: "A Greater Boston housing project examined observational associations in data from 152 towns using nested OLS and diagnostics."
+    sources: [SRC-CV, SRC-CORNELL-SOP]
+    status: supported_by_applicant_materials
+  - id: BRA-001
+    statement: "A five-person coursework team examined exchange-rate shocks in Brazil; Jiacheng led the team according to his materials."
+    sources: [SRC-CV, SRC-ADVISOR, SRC-CORNELL-PS]
+    status: supported_by_applicant_materials
+  - id: MIC-001
+    statement: "Jiacheng reports two Microeconomics office-hour discussions about hidden action."
+    sources: [SRC-APPLICANT]
+    status: owner_reported
+  - id: ETF-001
+    statement: "The independent ETF project retained MOM60 as the baseline after a more complex model did not maintain its full-sample advantage in aggregate walk-forward evaluation."
+    sources: [SRC-CV, SRC-ADVISOR, SRC-ETF-REPO]
+    status: supported_by_applicant_materials
+    restrictions: "Research and simulation scope. Review the corresponding run before citing figures; distinguish internship exploration from later independent work."
+  - id: CFA-001
+    statement: "Jiacheng initiated a three-person geopolitical-risk project and led the R analysis, according to his CV and advisor packet."
+    sources: [SRC-CV, SRC-ADVISOR]
+    status: supported_by_applicant_materials
+  - id: CFA-002
+    statement: "The team built a risk and hedge-review research prototype; the advisor packet reports it did not advance."
+    sources: [SRC-CV, SRC-ADVISOR]
+    status: supported_by_applicant_materials
+    restrictions: "No demonstrated live implementation or predictive trading result."
+  - id: ICB-001
+    statement: "Contributed industry and financial analysis on modern marine ranching and power lithium batteries at ICBC."
+    sources: [SRC-CV, SRC-ADVISOR]
+    status: supported_by_applicant_materials
+  - id: FND-001
+    statement: "Founder Securities work involved market-data analysis and initial ETF-rotation exploration."
+    sources: [SRC-CV, SRC-ADVISOR]
+    status: supported_by_applicant_materials
+  - id: DRG-001
+    statement: "At Dragon Rise, supported listed-company analysis and preliminary research on commercial taxi electrification in Hong Kong."
+    sources: [SRC-CV, SRC-ADVISOR, SRC-CORNELL-SOP]
+    status: supported_by_applicant_materials
+  - id: PM-001
+    statement: "Student Coordinator in the University of Manchester BSc Economics Peer Mentoring scheme."
+    sources: [SRC-APPLICANT, SRC-ADVISOR]
+    status: supported_by_applicant_materials
+    restrictions: "Confirm coordination headcount and any formal outcome before quoting them."
+  - id: PM-002
+    statement: "Draft materials describe explaining an RStudio exercise involving ARDL specification and significance testing."
+    sources: [SRC-CORNELL-PS, SRC-ADVISOR]
+    status: draft_reported
+    allowed_use: working_context

@@ -1,0 +1,37 @@
+sources:
+  - id: SRC-APPLICANT
+    kind: applicant_account
+    locator: "Direct conversations about grades, Microeconomics office hours and Peer Mentoring"
+    scope: "Owner-reported facts; confirm exact details where needed."
+  - id: SRC-PLAN
+    kind: design_note
+    locator: "Approved working design, 粘贴的文本 (1).txt, 2026-11-21"
+    scope: "Design and reported conflicts; cited originals may still need checking."
+  - id: SRC-CV
+    kind: applicant_cv
+    locator: "CV of Jiacheng Bie.docx, available outside this repository, read 2026-11-21"
+    scope: "Applicant account of internships and research; not independent confirmation of results or grades."
+  - id: SRC-ADVISOR
+    kind: applicant_prepared_packet
+    locator: "Advisor Packet(PS&CV)(1).docx, available outside this repository, read 2026-11-21"
+    scope: "Applicant-prepared draft, not a recommendation or a referee's attestation."
+  - id: SRC-CORNELL-PS
+    kind: application_draft
+    locator: "Cornell MPS AEM Personal Statement(1).docx, read 2026-11-21"
+    scope: "Candidate scenes and wording; ownership and factual details can require confirmation."
+  - id: SRC-CORNELL-SOP
+    kind: application_draft
+    locator: "Cornell MPS AEM Statement of Purpose(1).docx, read 2026-11-21"
+    scope: "Candidate wording; fact-check causal phrasing and programme-specific claims."
+  - id: SRC-TRANSCRIPT-REFERENCE
+    kind: official_transcript_reference
+    locator: "University of Manchester interim transcript dated 2026-10-07, previously supplied"
+    scope: "Official source when read directly; original not reread in this deployment."
+  - id: SRC-ETF-REPO
+    kind: project_repository
+    locator: "https://github.com/luka77bie/narrative-aware-etf-rotation"
+    scope: "Repository existence verified; supporting run for a particular result must be checked separately."
+  - id: SRC-DASHBOARD
+    kind: project_repository
+    locator: "https://github.com/luka77bie/portfolio-risk-dashboard"
+    scope: "Repository existence verified; ownership and AI-assisted implementation details pending."
