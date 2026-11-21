@@ -1,0 +1,5 @@
+programme_id,entry_year,status,round_selected,requirement_status,verified_at,deadline_timezone,official_source
+cornell-aem,2027,drafting_review_in_progress,pending,public_checked_portal_pending,2026-11-21,pending_portal,https://business.cornell.edu/admissions/graduate/mps-aem/
+jhu-carey-finance,2027,draft_material_available,pending,public_checked_portal_pending,2026-11-21,pending_portal,https://carey.jhu.edu/admissions/how-to-apply/ms-full-time
+columbia-erm,2027,exploring,pending,public_checked_portal_pending,2026-11-21,pending_portal,https://sps.columbia.edu/admissions/masters-degree-applicants
+duke-mqm,2027,exploring,pending,public_checked_portal_pending,2026-11-21,pending_portal,https://www.fuqua.duke.edu/programs/mqm-business-analytics/application-instructions

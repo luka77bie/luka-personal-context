@@ -1,0 +1,18 @@
+# Experience
+
+[Home](README.md) · [简体中文](../zh/experiences.md)
+
+| Experience | Documented work and outcome | Individual contribution, assistance, and limits |
+| --- | --- | --- |
+| Manchester mathematical economics, econometrics, and microeconomics (MIC-001) | Took mathematical economics and econometrics. Discussed hidden action in two microeconomics office hours | The questions and replies need his confirmation. Use official grade records. Assistance is unconfirmed |
+| Greater Boston housing prices (HOU-001) | Used observational data from 152 towns. Cleaned and log-transformed data in R, ran three nested OLS models, and compared coefficients, uncertainty, fit, and residuals | Individual coursework. Check reported variance inflation factors and marks against the report. Findings concern conditional associations. Assistance is unconfirmed |
+| Brazil exchange-rate shocks (BRA-001) | Five-person team investigated currency depreciation, inflation, interest rates, and economic activity. Used RStudio and Excel to align definitions and frequencies | Materials identify him as team lead and a contributor to the shared framework. Check specifications, individual tasks, and results against the report. Assistance is unconfirmed |
+| ICBC (ICB-001) | Contributed to industry and financial research in summer 2025 on marine ranching and power lithium batteries, covering policy, supply chains, cash flow, and solvency measures | Research support and analysis. Exact deliverables and assistance need confirmation. Use only cleared public examples externally |
+| Founder Securities (FND-001) | Explored market-data processing, returns, visualisation, and an initial ETF rotation prototype in summer 2026 | Confirm internship dates, individual deliverables, and assistance. Keep the early exploration separate from later independent research |
+| Independent ETF rotation (ETF-001) | Extended monthly rotation, transaction-cost tests, and walk-forward validation after the internship. A more complex attention specification failed to retain its full-sample edge out of sample. Retained the MOM60 baseline | Independent work. Verify the run, cost assumptions, and metrics. Findings are limited to the research design and simulations. Assistance is unconfirmed |
+| CFA Institute AI Investment Challenge (CFA-001, CFA-002) | Three-person team built a geopolitical-risk research prototype with an asset-response panel and hedge-review trigger. The team did not advance. The review flagged duplicates, labels, and thresholds | Materials identify him as initiator, coordinator, and R analysis lead. The team explored AI-assisted tagging. Confirm individual steps. The outcome was a research prototype |
+| Dragon Rise Group (DRG-001) | Supported listed-company analysis and early research into Hong Kong taxi electrification, covering cash flow, currency scenarios, financing, subsidies, and adoption | Confirm his inputs, scenarios, outputs, and assistance. Final investment decisions were outside his scope |
+| Manchester peer mentoring (PM-001, PM-002) | As Student Coordinator, helped organise and follow up mentor and mentee allocations. A draft describes explaining an autoregressive distributed lag model | Confirm his remit, team responsibilities, and learner feedback. Keep third parties anonymous. Assistance is unconfirmed |
+| Portfolio Risk Dashboard (SRC-DASHBOARD) | Project repository located. A design note records assistance from Codex | Confirm problem definition, metric choice, implementation, testing, and what he can independently explain or verify |
+
+Use [stories and evidence](stories.md) to find examples by situation and the [inventory](materials.md) to check source strength.
