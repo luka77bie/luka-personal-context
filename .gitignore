@@ -9,3 +9,9 @@
 .DS_Store
 /local-only/
 /data/raw/
+
+# Private local inputs in either language edition
+**/inbox/
+**/evidence/raw/
+**/local-only/
+**/data/raw/

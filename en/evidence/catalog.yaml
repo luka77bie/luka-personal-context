@@ -1,0 +1,65 @@
+sources:
+  - id: SRC-APPLICANT
+    kind: applicant_account
+    locator: "Direct conversations about grades, Microeconomics office hours and Peer Mentoring"
+    scope: "Owner-reported facts; confirm exact details where needed."
+  - id: SRC-PLAN
+    kind: design_note
+    locator: "Approved working design, 粘贴的文本 (1).txt, 2026-11-21"
+    scope: "Design and reported conflicts; cited originals may still need checking."
+  - id: SRC-CV
+    kind: applicant_cv
+    locator: "CV of Jiacheng Bie.docx, available outside this repository, read 2026-11-21"
+    scope: "Applicant account of internships and research; not independent confirmation of results or grades."
+  - id: SRC-ADVISOR
+    kind: applicant_prepared_packet
+    locator: "Advisor Packet(PS&CV)(1).docx, available outside this repository, read 2026-11-21"
+    scope: "Applicant-prepared draft, not a recommendation or a referee's attestation."
+  - id: SRC-CORNELL-PS
+    kind: application_draft
+    locator: "Cornell MPS AEM Personal Statement(1).docx, read 2026-11-21"
+    scope: "Candidate scenes and wording; ownership and factual details can require confirmation."
+  - id: SRC-CORNELL-SOP
+    kind: application_draft
+    locator: "Cornell MPS AEM Statement of Purpose(1).docx, read 2026-11-21"
+    scope: "Candidate wording; fact-check causal phrasing and programme-specific claims."
+  - id: SRC-TRANSCRIPT-REFERENCE
+    kind: official_transcript_reference
+    locator: "University of Manchester interim transcript dated 2026-10-07, previously supplied"
+    scope: "Official source when read directly; original not reread in this deployment."
+  - id: SRC-ETF-REPO
+    kind: project_repository
+    locator: "https://github.com/luka77bie/narrative-aware-etf-rotation"
+    scope: "Project README and its published four-fold walk-forward aggregate results checked 2026-11-21. This source documents the outcome, not the applicant's order of review."
+  - id: SRC-DASHBOARD
+    kind: project_repository
+    locator: "https://github.com/luka77bie/portfolio-risk-dashboard"
+    scope: "Repository existence verified; ownership and AI-assisted implementation details pending."
+  - id: SRC-PLAN-GRAD
+    kind: owner_selected_design_note
+    locator: "粘贴的文本 (1)(1).txt, 2026-11-21, available outside this repository"
+    scope: "Version-two design. Statements attributed to questionnaires or other material need direct confirmation before promotion to personal facts."
+  - id: SRC-CHAT-ETF
+    kind: applicant_chat_account
+    locator: "2026-11-17 ChatGPT discussion on the ETF research hypothesis and behavioural finance interests."
+    scope: "Use the attributed applicant account. Precise dialogue, personal process, and results beyond the account require additional corroboration."
+  - id: SRC-CHAT-CFA
+    kind: applicant_chat_account
+    locator: "2026-10-21 ChatGPT application preparation: firsthand account of the team discussions and post-competition review."
+    scope: "Use the attributed applicant account. Precise dialogue, personal process, and results beyond the account require additional corroboration."
+  - id: SRC-CHAT-MICRO
+    kind: applicant_chat_account
+    locator: "2026-10-22 ChatGPT recommendation discussion confirming office hours; separate 2026-10-15 microeconomics tutorial practice containing the applicant's answer."
+    scope: "Use the attributed applicant account. Precise dialogue, personal process, and results beyond the account require additional corroboration."
+  - id: SRC-CHAT-FINANCE
+    kind: applicant_chat_account
+    locator: "2026-11-19 and 2026-11-21 ChatGPT finance application discussion: career goals, ICBC location, NPV work, and Dragon Rise scenario inputs."
+    scope: "Use the attributed applicant account. Precise dialogue, personal process, and results beyond the account require additional corroboration."
+  - id: SRC-CHAT-PEER
+    kind: applicant_chat_account
+    locator: "Earlier ChatGPT peer mentoring discussion, including applicant-provided confirmation of allocation notices sent on 2026-10-12."
+    scope: "Use the attributed applicant account. Precise dialogue, personal process, and results beyond the account require additional corroboration."
+  - id: SRC-UCL-PS
+    kind: application_draft
+    locator: "UCL MFin Personal Statement.docx, available outside this repository, read 2026-11-21"
+    scope: "Cross-check for structure and draft descriptions. Authorship and programme claims need confirmation. Treat causal language as draft wording."

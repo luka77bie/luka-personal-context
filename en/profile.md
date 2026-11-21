@@ -22,3 +22,5 @@ Reviewed on 21 November 2026. The chat evidence is attributed to the applicant a
 Start from an identifiable action, choice, or observation. Explain the motivation and what the evidence can support. Provide specific feedback at paragraph or sentence level while respecting meaning and authorial voice. Preserve names, code, official course titles, and quotations as sourced. Choose UK or US spelling as appropriate for the destination.
 
 Label samples as the applicant’s original, unconfirmed AI rewrite, applicant-reviewed wording, adviser feedback, or an example by someone else. Record authorship, purpose, revision history, and confirmation date. An independently written English sample is still needed.
+
+[Detailed records](profile/overview.md)

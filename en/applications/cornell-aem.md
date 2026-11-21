@@ -2,6 +2,8 @@
 
 [Home](../README.md) · [简体中文](../../zh/applications/cornell-aem.md)
 
+[Full programme workspace](2027-entry/programmes/cornell-aem/status.md)
+
 One personal statement and one academic statement of purpose were reviewed. The applicant’s round, concentration, and submission status need confirmation.
 
 ## Requirements and official sources

@@ -1,0 +1,158 @@
+claims:
+  - id: EDU-001
+    statement: "别佳诚就读曼彻斯特大学经济学理学学士。"
+    sources: [SRC-CV, SRC-APPLICANT]
+    source_type: applicant_account_and_cv
+    verification_status: supported_by_applicant_materials
+    owner_confirmation: confirmed_by_owner
+    allowed_use: working_context
+  - id: EDU-002
+    statement: "本人报告大二均分为 67。此前提供的 2026-10-07 阶段性成绩单据录显示 ECON20110 和 ECON20120 均为 72。"
+    sources: [SRC-APPLICANT, SRC-TRANSCRIPT-REFERENCE]
+    source_type: applicant_report_of_transcript
+    verification_status: owner_reported_transcript_not_reopened
+    owner_confirmation: confirmed_by_owner
+    allowed_use: working_context
+  - id: EDU-003
+    statement: "住房课程作业与课程总评的口径，以及学校正式预计学位等级，尚待权威材料核实。"
+    sources: [SRC-CV, SRC-ADVISOR, SRC-PLAN]
+    source_type: application_materials_with_conflict
+    verification_status: unresolved
+    owner_confirmation: pending
+    allowed_use: internal_only
+  - id: HOU-001
+    statement: "大波士顿住房项目对 152 个市镇的观察数据做了嵌套最小二乘回归和诊断，研究变量间的关联。"
+    sources: [SRC-CV, SRC-CORNELL-SOP]
+    source_type: applicant_cv_and_working_draft
+    verification_status: supported_by_applicant_materials
+    owner_confirmation: pending
+    allowed_use: draft_only
+  - id: BRA-001
+    statement: "五人课程小组研究了巴西的汇率冲击。申请材料记载本人担任组长。"
+    sources: [SRC-CV, SRC-ADVISOR, SRC-CORNELL-PS]
+    source_type: applicant_cv_and_working_drafts
+    verification_status: supported_by_applicant_materials
+    owner_confirmation: pending
+    allowed_use: draft_only
+  - id: MIC-001
+    statement: "本人回忆曾两次在微观经济学答疑时间讨论隐蔽行动。"
+    sources: [SRC-APPLICANT]
+    source_type: applicant_account
+    verification_status: owner_reported
+    owner_confirmation: confirmed_by_owner
+    allowed_use: working_context
+  - id: ETF-001
+    statement: "独立 ETF 研究中，复杂规格的全样本优势未能在整体滚动样本外评价中保持，保留了 60 日动量基准。"
+    sources: [SRC-CV, SRC-ADVISOR, SRC-ETF-REPO]
+    source_type: applicant_materials_and_project_documentation
+    verification_status: documented_in_project_readme
+    owner_confirmation: pending
+    allowed_use: draft_only
+    restrictions: "范围为研究与模拟。项目说明列出基准与关注度模型的样本外年化收益分别为 22.21% 和 21.46%，夏普比率为 0.859 和 0.838。正式引用需核对相应运行，区分实习探索与独立扩展。"
+  - id: CFA-001
+    statement: "简历与推荐人背景材料记载，本人发起了三人地缘风险项目，并负责 R 分析。"
+    sources: [SRC-CV, SRC-ADVISOR]
+    source_type: applicant_cv_and_working_draft
+    verification_status: supported_by_applicant_materials
+    owner_confirmation: pending
+    allowed_use: draft_only
+  - id: CFA-002
+    statement: "团队制作了风险与对冲复核研究原型，推荐人背景材料记载团队未晋级。"
+    sources: [SRC-CV, SRC-ADVISOR]
+    source_type: applicant_cv_and_working_draft
+    verification_status: supported_by_applicant_materials
+    owner_confirmation: pending
+    allowed_use: draft_only
+    restrictions: "材料只支持原型和复盘，实盘部署及预测交易业绩未经证实。"
+  - id: ICB-001
+    statement: "在工商银行参与现代海洋牧场与动力锂电池行业的产业及财务分析。"
+    sources: [SRC-CV, SRC-ADVISOR]
+    source_type: applicant_cv_and_working_draft
+    verification_status: supported_by_applicant_materials
+    owner_confirmation: pending
+    allowed_use: draft_only
+  - id: FND-001
+    statement: "在方正证券接触市场数据处理并初步探索了 ETF 轮动。"
+    sources: [SRC-CV, SRC-ADVISOR]
+    source_type: applicant_cv_and_working_draft
+    verification_status: supported_by_applicant_materials
+    owner_confirmation: pending
+    allowed_use: draft_only
+  - id: DRG-001
+    statement: "在龙升投资集团协助分析上市公司，并参与香港商用出租车电动化的前期研究。"
+    sources: [SRC-CV, SRC-ADVISOR, SRC-CORNELL-SOP]
+    source_type: applicant_cv_and_working_drafts
+    verification_status: supported_by_applicant_materials
+    owner_confirmation: pending
+    allowed_use: draft_only
+  - id: PM-001
+    statement: "在曼彻斯特大学经济学本科朋辈辅导计划担任学生协调员。"
+    sources: [SRC-APPLICANT, SRC-ADVISOR]
+    source_type: applicant_account_and_working_draft
+    verification_status: supported_by_applicant_materials
+    owner_confirmation: confirmed_by_owner
+    allowed_use: working_context
+    restrictions: "引用人数及正式结果前，先核清本人负责范围。"
+  - id: PM-002
+    statement: "申请草稿记载曾讲解 RStudio 中涉及自回归分布滞后模型设定及显著性检验的练习。"
+    sources: [SRC-CORNELL-PS, SRC-ADVISOR]
+    source_type: application_drafts
+    verification_status: draft_reported
+    owner_confirmation: pending
+    allowed_use: working_context
+  - id: ETF-002
+    statement: "本人希望检验，当 ETF 价格动量相近时，市场关注度能否帮助区分后续收益。"
+    sources: [SRC-CHAT-ETF]
+    source_type: applicant_account
+    verification_status: owner_reported
+    owner_confirmation: confirmed_by_owner
+    allowed_use: working_context
+    restrictions: "该条记录研究假设。"
+  - id: CFA-003
+    statement: "本人回忆团队最初对预测市场方向有分歧，约用两次会议对齐了量化新闻风险的目标。未晋级后，他复盘了数据噪声、标签稳定性、阈值选择和回归显著性。"
+    sources: [SRC-CHAT-CFA]
+    source_type: applicant_account
+    verification_status: owner_reported
+    owner_confirmation: confirmed_by_owner
+    allowed_use: working_context
+    restrictions: "队友的原话和个人反应尚待直接证据。"
+  - id: MIC-002
+    statement: "在一次独立的习题讨论中，本人判断观察到失败不足以推断偷懒，因为努力工作也可能失败。"
+    sources: [SRC-CHAT-MICRO]
+    source_type: applicant_account
+    verification_status: owner_reported
+    owner_confirmation: confirmed_by_owner
+    allowed_use: working_context
+    restrictions: "此答复来自习题讨论。老师答疑时的问答仍缺记录。"
+  - id: DRG-002
+    statement: "本人指出龙升电动化项目的回收期分析考虑了车辆采购时点、融资成本与人民币兑港币汇率敞口。"
+    sources: [SRC-CHAT-FINANCE, SRC-UCL-PS]
+    source_type: applicant_account_and_working_draft
+    verification_status: owner_reported
+    owner_confirmation: confirmed_by_owner
+    allowed_use: working_context
+    restrictions: "现有记录未量化单个输入改变前后的回收期，也未表明某个输入逆转了结论。"
+  - id: FIN-001
+    statement: "本人确认主要基于现有财报计算净现值，用于后续规划。文书草稿把净现值工作放在龙升经历中。"
+    sources: [SRC-CHAT-FINANCE, SRC-UCL-PS]
+    source_type: applicant_account_and_working_draft
+    verification_status: owner_reported
+    owner_confirmation: confirmed_by_owner
+    allowed_use: working_context
+    restrictions: "净现值计算和出租车电动化建模需进一步核对是否属于同一项交付。"
+  - id: CAR-001
+    statement: "本人首选股票研究与公司基本面分析，长期希望研究多资产配置。"
+    sources: [SRC-CHAT-FINANCE]
+    source_type: applicant_account
+    verification_status: owner_reported
+    owner_confirmation: confirmed_by_owner
+    allowed_use: working_context
+    restrictions: "本人于 2026-11-19 陈述上述职业优先顺序。"
+  - id: PM-003
+    statement: "一位导师退出后，本人于 2026-10-12 通知六位导师各接收两名学生，共十二人。"
+    sources: [SRC-CHAT-PEER]
+    source_type: applicant_record
+    verification_status: reported_and_notice_confirmed
+    owner_confirmation: confirmed_by_owner
+    allowed_use: working_context
+    restrictions: "通知只证明重新分配已告知。登记完整性和后续联系需另查。保留参与者匿名。"

@@ -16,3 +16,5 @@
 | Portfolio Risk Dashboard (SRC-DASHBOARD) | Project repository located. A design note records assistance from Codex | Confirm problem definition, metric choice, implementation, testing, and what he can independently explain or verify |
 
 Use [stories and evidence](stories.md) to find examples by situation and the [inventory](materials.md) to check source strength.
+
+[Detailed records](experiences/index.md)

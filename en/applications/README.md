@@ -12,3 +12,5 @@
 This is a working list. The applicant’s immediate priority is equity research and company fundamental analysis, with multi-asset allocation research as a longer-term direction. He wants to use quantitative testing in investment research and is also exploring applied economics, risk, and business analytics. The UK and Hong Kong shortlist, preferred programme length, round, and budget require applicant confirmation. Public admissions notes were last checked on 21 November 2026. Confirm against the current portal before submitting.
 
 [Application workflow](../guide.md) · [Facts and materials](../materials.md)
+
+[Detailed records](2027-entry/index.md)

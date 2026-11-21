@@ -2,6 +2,8 @@
 
 [首页](../README.md) · [English](../../en/applications/jhu-carey-finance.md)
 
+[完整项目工作区](2027-entry/programmes/jhu-carey-finance/status.md)
+
 导师资料包已有两篇工作稿素材。学制、轮次、当期原题和提交状态待确认。
 
 | 项目 | 记录 |

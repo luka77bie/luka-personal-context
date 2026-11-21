@@ -2,6 +2,8 @@
 
 [Home](../README.md) · [简体中文](../../zh/applications/duke-mqm.md)
 
+[Full programme workspace](2027-entry/programmes/duke-mqm/status.md)
+
 Under consideration. The Finance or Risk track, target role, and application round need confirmation.
 
 | Item | Record |

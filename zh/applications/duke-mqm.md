@@ -2,6 +2,8 @@
 
 [首页](../README.md) · [English](../../en/applications/duke-mqm.md)
 
+[完整项目工作区](2027-entry/programmes/duke-mqm/status.md)
+
 正在考虑。金融或风险方向、本人近期职业目标及申请轮次待确认。
 
 | 项目 | 记录 |

@@ -14,3 +14,5 @@
 | ST-08 Curiosity | Discussed hidden action in two office hours. In separate practice, he identified that effort can still end in failure. | MIC-001, MIC-002. The practice answer is documented. The instructor’s replies remain open. |
 
 ST-03 or ST-04 can support academic questions, ST-01 research judgement, ST-02 setbacks, and ST-05 community contribution. When multiple essays for one programme draw on the same experience, give the story a distinct function and focus on different actions or lessons. Ask the applicant to confirm personal reflections, dialogue, and results.
+
+[Detailed records](stories/story-bank.md)

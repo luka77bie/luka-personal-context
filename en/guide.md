@@ -17,3 +17,5 @@ Update verified facts and sources first, then sync both corresponding language p
 - Applications and topic selection: [application overview](applications/README.md) and the relevant programme page.
 - Technical interviews: the contribution and methods in [experience](experiences.md), with ST-01, ST-02, and ST-04.
 - Community and leadership: ST-03 and ST-05 in [stories and evidence](stories.md), with firsthand interactions and feedback.
+
+[Detailed records](skills/graduate-application/SKILL.md)

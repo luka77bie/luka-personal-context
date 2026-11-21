@@ -2,6 +2,8 @@
 
 [Home](../README.md) · [简体中文](../../zh/applications/columbia-erm.md)
 
+[Full programme workspace](2027-entry/programmes/columbia-erm/status.md)
+
 Under consideration. Delivery mode, the applicant’s career goals, and submission status remain to be confirmed.
 
 | Item | Record |

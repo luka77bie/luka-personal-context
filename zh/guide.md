@@ -17,3 +17,5 @@
 - 申请与选题：[申请总览](applications/README.md)与相关项目页。
 - 技术面试：[经历](experiences.md)的个人贡献和方法，配合 ST-01、ST-02、ST-04。
 - 社群与领导力：[故事与选材](stories.md)的 ST-03 和 ST-05，补真实互动与反馈。
+
+[详细目录](skills/graduate-application/SKILL.md)

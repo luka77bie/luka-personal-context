@@ -2,6 +2,8 @@
 
 [Home](../README.md) · [简体中文](../../zh/applications/jhu-carey-finance.md)
 
+[Full programme workspace](2027-entry/programmes/jhu-carey-finance/status.md)
+
 The adviser packet contains two working essay leads. The route, application round, exact prompts, and submission status remain unconfirmed.
 
 | Item | Record |

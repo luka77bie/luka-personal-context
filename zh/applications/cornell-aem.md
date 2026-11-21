@@ -2,6 +2,8 @@
 
 [首页](../README.md) · [English](../../en/applications/cornell-aem.md)
 
+[完整项目工作区](2027-entry/programmes/cornell-aem/status.md)
+
 已审阅个人陈述与学术目的陈述各一份。申请轮次、专业方向和提交状态待本人确认。
 
 ## 要求与公开来源

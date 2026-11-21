@@ -2,6 +2,8 @@
 
 [首页](../README.md) · [English](../../en/applications/columbia-erm.md)
 
+[完整项目工作区](2027-entry/programmes/columbia-erm/status.md)
+
 正在考虑。全日制的教学方式、本人职业目标和提交状态待确认。
 
 | 项目 | 记录 |

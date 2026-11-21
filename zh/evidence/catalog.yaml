@@ -1,0 +1,65 @@
+sources:
+  - id: SRC-APPLICANT
+    kind: applicant_account
+    locator: "关于成绩、微观答疑及朋辈辅导的本人聊天记录"
+    scope: "本人陈述，具体细节按需核对。"
+  - id: SRC-PLAN
+    kind: design_note
+    locator: "已认可的方案文件《粘贴的文本 (1).txt》，2026-11-21。"
+    scope: "用于方案和冲突线索，引用到的原始材料可能仍待核对。"
+  - id: SRC-CV
+    kind: applicant_cv
+    locator: "CV of Jiacheng Bie.docx，原件另存，2026-11-21 已读。"
+    scope: "本人对实习及研究的陈述，成绩及研究结果另按原始记录核对。"
+  - id: SRC-ADVISOR
+    kind: applicant_prepared_packet
+    locator: "Advisor Packet(PS&CV)(1).docx，原件另存，2026-11-21 已读。"
+    scope: "申请人准备的工作稿。推荐人直接观察或作出的评价需另证。"
+  - id: SRC-CORNELL-PS
+    kind: application_draft
+    locator: "Cornell MPS AEM Personal Statement(1).docx，2026-11-21 已读。"
+    scope: "提供候选场景及表述，作者归属和具体事实可能仍需确认。"
+  - id: SRC-CORNELL-SOP
+    kind: application_draft
+    locator: "Cornell MPS AEM Statement of Purpose(1).docx，2026-11-21 已读。"
+    scope: "用于定位草稿表述。须核对因果措辞与项目特定主张。"
+  - id: SRC-TRANSCRIPT-REFERENCE
+    kind: official_transcript_reference
+    locator: "此前提供的曼彻斯特大学阶段性成绩单，日期为 2026-10-07。"
+    scope: "直接查阅时属于官方记录。本次整理未重读原件。"
+  - id: SRC-ETF-REPO
+    kind: project_repository
+    locator: "https://github.com/luka77bie/narrative-aware-etf-rotation"
+    scope: "2026-11-21 已核对项目说明及四折滚动样本外汇总结果。本人查看结果时的先后顺序仍待证实。"
+  - id: SRC-DASHBOARD
+    kind: project_repository
+    locator: "https://github.com/luka77bie/portfolio-risk-dashboard"
+    scope: "已定位项目，个人分工和人工智能辅助实现细节待查。"
+  - id: SRC-PLAN-GRAD
+    kind: owner_selected_design_note
+    locator: "《粘贴的文本 (1)(1).txt》，2026-11-21，原件另存。"
+    scope: "第二版方案。间接引述问卷等材料的内容，需要直接核对才能列为个人事实。"
+  - id: SRC-CHAT-ETF
+    kind: applicant_chat_account
+    locator: "2026-11-17 关于 ETF 研究假设及行为金融兴趣的聊天。"
+    scope: "仅引述本人有记录的说法。精确对话、具体步骤和其他结果仍需相应证据。"
+  - id: SRC-CHAT-CFA
+    kind: applicant_chat_account
+    locator: "2026-10-21 申请准备聊天，本人回忆团队讨论和赛后复盘。"
+    scope: "仅引述本人有记录的说法。精确对话、具体步骤和其他结果仍需相应证据。"
+  - id: SRC-CHAT-MICRO
+    kind: applicant_chat_account
+    locator: "2026-10-22 推荐信讨论中确认答疑经历，2026-10-15 另有微观习题答复。"
+    scope: "仅引述本人有记录的说法。精确对话、具体步骤和其他结果仍需相应证据。"
+  - id: SRC-CHAT-FINANCE
+    kind: applicant_chat_account
+    locator: "2026-11-19 与 2026-11-21 的金融申请讨论，涉及职业目标、工行单位、净现值及龙升情景输入。"
+    scope: "仅引述本人有记录的说法。精确对话、具体步骤和其他结果仍需相应证据。"
+  - id: SRC-CHAT-PEER
+    kind: applicant_chat_account
+    locator: "此前的朋辈辅导聊天中，本人提供了 2026-10-12 已发送重新分配通知的证据。"
+    scope: "仅引述本人有记录的说法。精确对话、具体步骤和其他结果仍需相应证据。"
+  - id: SRC-UCL-PS
+    kind: application_draft
+    locator: "UCL MFin Personal Statement.docx，原件另存，2026-11-21 已读。"
+    scope: "用于核对结构及草稿中对经历的描述。作者与项目匹配主张待确认。因果表述仍属工作稿措辞。"
