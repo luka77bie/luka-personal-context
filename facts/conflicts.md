@@ -9,3 +9,7 @@
 | Cornell concentration | Advisor Packet 把 Technology Management 作为候选。一份 SOP 草稿提到 Behavioural Finance | 确认本人目标以及 2027 可选方向，再使用具体名称 |
 | Quant Research Lab 近况 | 方案整理稿提及较早版本和 2026-09-08 更新状态 | 按各 Study 的最新报告及运行记录核对。首版收录有材料支持的 ETF 研究 |
 | 写作样本归属 | 已读草稿的本人写作和编辑痕迹未独立确认 | 标记为草稿材料；由本人提供纯本人写作样本 |
+
+| Duke degree conferral 与 transcript | Fuqua 公开页写 6 月 25 日须交已授予学位的成绩单。本人预计 2027 完成学位，Manchester 确切签发时间待确认 | 问 Manchester 实际 conferral 和正式成绩单日期，再向 Fuqua 确认是否接受临时文件或其他安排 |
+
+统一时间线和正式记录的待核对项见 [学位口径](academic-record.md)。工作习惯和写作样本的问题分别见 [学习与工作方式](../profile/working-and-learning-style.md) 与 [写作声音](../profile/voice.md)。

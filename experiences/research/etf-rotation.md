@@ -11,3 +11,7 @@
 **边界**：研究与 paper-trading 观察只支持该测试设计内的结论。成果归属、成本、数据范围、四段结果均应在正式使用前核对。该结果无法单独证明 attention 信息普遍无效或实盘获利。
 
 **待补**：第一次看到 OOS 结果时你先查了什么？取舍时怎样考虑 overfitting？具体哪个结果或报告能复现这个决定？
+
+**Personal ownership**：本人在实习后独立扩展研究，实习工作限于初期探索。对照运行和代码版本核对个人贡献。
+
+**AI assistance and explainability**：AI 辅助情况待确认。本人准备解释 MOM60、成本、walk-forward 方法及数据范围。

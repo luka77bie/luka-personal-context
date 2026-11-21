@@ -1,12 +1,10 @@
-# 从具体行为理解我
+# 个人风格与价值观
 
-这些是首版候选画像。引用为第一人称时应由本人确认。
+| 候选倾向 | 行为与场景 | 适用范围及待补细节 | 本人确认 / 最近复核 |
+| --- | --- | --- | --- |
+| 愿意随证据调整研究判断 | [ETF](../experiences/research/etf-rotation.md) 的复杂规格未保持样本外优势，本人保留简单基准 | 限于研究判断。第一次看结果时查了什么，仍待本人回忆 | 待确认 / 未记录 |
+| 先拆解问题，再选择工具 | [Brazil](../experiences/research/brazil-exchange-rate.md) 整合多源指标；[Peer Mentoring](../experiences/activities/peer-mentoring.md) 候选场景从变量与检验逻辑讲解 ARDL | 组内协商和实际讲解反馈待确认 | 待确认 / 未记录 |
+| 想知道模型在何种条件下成立 | 微观课后两次讨论 hidden action；[Boston 住房](../experiences/research/boston-housing.md) 比较不同控制变量设定 | 具体问题和回应由本人补充 | 待确认 / 未记录 |
+| 重视执行条件 | [ICBC](../experiences/internships/icbc.md) 结合行业与财务；[Dragon Rise](../experiences/internships/dragon-rise.md) 考虑融资和采用 | 证据属于研究贡献。机构决策超出个人范围 | 待确认 / 未记录 |
 
-| 候选倾向 | 行为线索 | 适用边界及待补信息 |
-| --- | --- | --- |
-| 愿意为验证结果修改原判断 | [ETF 研究](../experiences/research/etf-rotation.md) 中复杂规格未保持样本外优势，保留简单基准 | 研究判断。补充第一次看到 OOS 结果时实际检查的步骤 |
-| 把大问题拆成可解释的部分 | [Brazil](../experiences/research/brazil-exchange-rate.md) 项目统一多源数据框架；在 [Peer Mentoring](../experiences/activities/peer-mentoring.md) 里解释变量与检验逻辑 | 补充与队友形成共识的一个细节，以及听者怎样回应 |
-| 好奇模型在什么条件下成立 | 微观课后两次讨论 hidden action；住房项目用 nested OLS 和诊断检查结论边界 | 具体 office-hour 问题及回答待本人确认 |
-| 关注现实约束 | [ICBC](../experiences/internships/icbc.md) 联合看行业背景与公司财务，[Dragon Rise](../experiences/internships/dragon-rise.md) 接触政策、融资和采用条件 | 这两段属于研究贡献；最终授信和投资决策超出记录范围 |
-
-下一轮优先记录一次收到批评后如何回应、一次与队友有分歧时如何协调、以及一个课堂和实习之外的具体场景。
+本人自述的原话目前留待本人补入。录入时记录场景、来源及确认时间。研究里的行为可以用来了解研究风格。对沟通、压力和反馈的概括需要各自对应的事例。[学习与工作方式](working-and-learning-style.md)

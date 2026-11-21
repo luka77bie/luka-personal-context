@@ -1,4 +1,6 @@
-# 2027 Graduate Applications
+# 2027 Graduate Applications · 首版导航
+
+当前入口为 [2027 入学工作区](../2027-entry/index.md)。下面的 brief 与 fit 文件供查阅首版记录。
 
 项目列表按目前已讨论材料整理。具体申请阶段以本人或已读取的申请记录为准。
 

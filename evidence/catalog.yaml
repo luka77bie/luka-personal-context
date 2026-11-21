@@ -35,3 +35,7 @@ sources:
     kind: project_repository
     locator: "https://github.com/luka77bie/portfolio-risk-dashboard"
     scope: "Repository existence verified; ownership and AI-assisted implementation details pending."
+  - id: SRC-PLAN-GRAD
+    kind: owner_selected_design_note
+    locator: "粘贴的文本 (1)(1).txt, 2026-11-21, available outside this repository"
+    scope: "Version-two design. Statements attributed to questionnaires or other material need direct confirmation before promotion to personal facts."

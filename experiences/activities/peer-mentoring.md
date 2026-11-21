@@ -9,3 +9,7 @@
 **边界**：个人负责和项目总体 headcount 分开核对。使用匿名表述，省略姓名、学号、邮箱、出勤和未完成事项的具体记录。
 
 **待补**：哪一次你改变了解释方式？遇到 register 有缺口时，你优先联系谁、怎样确认问题已经解决？
+
+**Personal ownership**：协调安排和跟进记录，与其他 coordinator、mentor 分工；解释 ARDL 的例子仍需本人确认场景。
+
+**AI assistance and explainability**：此前材料未见披露。由本人说明能独立讲解哪些 ARDL 变量、假设与检验，保留匿名信息。

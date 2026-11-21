@@ -1,11 +1,14 @@
 # Luka Personal Context
 
-别佳诚（Jiacheng Bie / Luka）的个人背景、经历和写作工作区。主要服务研究生申请，也用于 CV、求职和面试准备。
+别佳诚（Jiacheng Bie / Luka）的私人资料库，用于研究生申请、求职材料和面试。请从 [START_HERE.md](START_HERE.md) 进入。
 
-从 [START_HERE.md](START_HERE.md) 开始。交给 AI 时，同时指定 [AGENTS.md](AGENTS.md)；改稿时附具体题目和你希望反馈的草稿。
+| 区域 | 内容 |
+| --- | --- |
+| **Personal Context** | [个人背景](profile/overview.md)、[行为与价值观](profile/personality.md)、[事实](facts/claims.yaml)、[经历](experiences/index.md)、[故事](stories/story-bank.md) 和 [证据](evidence/catalog.yaml) |
+| **Skills** | [Graduate Application](skills/graduate-application/SKILL.md) 的可复用方法 |
+| **Applications** | [2027 入学工作区](applications/2027-entry/index.md)、项目要求、选材、草稿审阅与提交记录 |
+| **维护** | [更新流程](maintenance/update-protocol.md)、[验收清单](maintenance/quality-checks.md) 和 [历史](CHANGELOG.md) |
 
-- [事实与冲突](facts/conflicts.md) · [时间线](facts/timeline.csv) · [证据目录](evidence/catalog.yaml)
-- [经历索引](experiences/index.md) · [关键场景](stories/decision-moments.md) · [写作声音](profile/voice.md)
-- [2027 申请工作区](applications/2027/index.md) · [文书修改流程](workflows/ps-review.md)
+在 Codex 中可从入口指定一个项目和任务，例如「按 Graduate Application 方法审阅 Cornell SOP，仅做事实核对、词句问题与允许范围内的选题讨论」。[AGENTS.md](AGENTS.md) 保存阅读顺序和工作规则。
 
-更新时，先改有来源的事实与经历，再按需更新派生摘要。经历发生时间、写入时间和来源核对时间分别记录。仓库内容以脱敏文字为主。身份文件、完整成绩单、账号凭据、推荐信原件、第三方联系方式和机构内部材料放在原来的受控位置。
+申请工作文件引用个人事实与经历。本人确认及核对来源后，才可更新事实层。仓库内使用脱敏摘要；证件、登录凭据、原始推荐信、第三方联系方式和机构内部材料由本人放在受控位置。

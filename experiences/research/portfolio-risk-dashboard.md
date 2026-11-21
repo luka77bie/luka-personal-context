@@ -10,3 +10,7 @@
 - 能独立解释的指标和能在面试中复现的结果。
 
 引用时说明 AI assistance 和本人贡献，并依据可验证的使用范围描述项目。
+
+**Personal ownership**：逐项确认问题定义、指标、代码实现、修改、测试和说明各自归属。
+
+**AI assistance and explainability**：记录为 Codex-assisted 项目。指标、版本和本人独立完成的修改或验证步骤待复核。

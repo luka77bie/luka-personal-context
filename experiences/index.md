@@ -14,3 +14,5 @@
 | [Portfolio Risk Dashboard](research/portfolio-risk-dashboard.md) | AI-assisted coding、技能边界 | 个人 ownership 和独立校验 |
 
 核对档案见 [事实清单](../facts/claims.yaml)、[冲突](../facts/conflicts.md) 和 [来源](../evidence/catalog.yaml)。
+
+经历卡的个人归属与 AI 辅助、可独立解释范围分开记录。只取某个具体场景时，从 [故事库](../stories/story-bank.md) 选择故事 ID，再核对经历和事实。
