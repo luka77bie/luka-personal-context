@@ -44,11 +44,11 @@ claims:
   - id: ETF-001
     statement: "The independent ETF project retained MOM60 as the baseline after a more complex model did not maintain its full-sample advantage in aggregate walk-forward evaluation."
     sources: [SRC-CV, SRC-ADVISOR, SRC-ETF-REPO]
-    source_type: applicant_materials_and_repository_reference
-    verification_status: supported_by_applicant_materials
+    source_type: applicant_materials_and_project_documentation
+    verification_status: documented_in_project_readme
     owner_confirmation: pending
     allowed_use: draft_only
-    restrictions: "Research and simulation scope. Review the corresponding run before citing figures; distinguish internship exploration from later independent work."
+    restrictions: "Research and simulation scope. README reports 22.21% versus 21.46% aggregate OOS CAGR and 0.859 versus 0.838 OOS Sharpe for baseline and attention model, respectively. Verify the corresponding run for further use; keep internship exploration and independent work distinct."
   - id: CFA-001
     statement: "Jiacheng initiated a three-person geopolitical-risk project and led the R analysis, according to his CV and advisor packet."
     sources: [SRC-CV, SRC-ADVISOR]
@@ -100,3 +100,59 @@ claims:
     verification_status: draft_reported
     owner_confirmation: pending
     allowed_use: working_context
+  - id: ETF-002
+    statement: "The applicant said he wanted to test whether market attention adds information about future returns when ETFs have similar price momentum."
+    sources: [SRC-CHAT-ETF]
+    source_type: applicant_account
+    verification_status: owner_reported
+    owner_confirmation: confirmed_by_owner
+    allowed_use: working_context
+    restrictions: "Applicant's research hypothesis; this is not a finding."
+  - id: CFA-003
+    statement: "The applicant recalled about two meetings to align the team on quantifying news risk after a disagreement over predicting market direction. After the team did not advance, he reviewed data noise, tagging stability, threshold judgement, and regression significance."
+    sources: [SRC-CHAT-CFA]
+    source_type: applicant_account
+    verification_status: owner_reported
+    owner_confirmation: confirmed_by_owner
+    allowed_use: working_context
+    restrictions: "Do not attribute verbatim replies or specific reactions to teammates."
+  - id: MIC-002
+    statement: "In a separate practice exchange the applicant identified that observed failure does not establish shirking because working can also end in failure."
+    sources: [SRC-CHAT-MICRO]
+    source_type: applicant_account
+    verification_status: owner_reported
+    owner_confirmation: confirmed_by_owner
+    allowed_use: working_context
+    restrictions: "Practice exchange, separate from office hours. The instructor's questions and replies are not documented."
+  - id: DRG-002
+    statement: "The applicant named vehicle purchase timing, financing costs, and RMB/HKD exposure among payback inputs in the Dragon Rise electrification analysis."
+    sources: [SRC-CHAT-FINANCE, SRC-UCL-PS]
+    source_type: applicant_account_and_working_draft
+    verification_status: owner_reported
+    owner_confirmation: confirmed_by_owner
+    allowed_use: working_context
+    restrictions: "The record does not quantify a before-and-after change or establish that a single input reversed the conclusion."
+  - id: FIN-001
+    statement: "The applicant confirmed completing NPV calculations based primarily on existing financial statements for forward planning. The working application material describes NPV in the Dragon Rise section."
+    sources: [SRC-CHAT-FINANCE, SRC-UCL-PS]
+    source_type: applicant_account_and_working_draft
+    verification_status: owner_reported
+    owner_confirmation: confirmed_by_owner
+    allowed_use: working_context
+    restrictions: "Do not conflate the NPV work and taxi electrification modelling as a single deliverable without checking further."
+  - id: CAR-001
+    statement: "The applicant prioritises equity research and company fundamental analysis after graduation and identifies multi-asset allocation research as a longer-term direction."
+    sources: [SRC-CHAT-FINANCE]
+    source_type: applicant_account
+    verification_status: owner_reported
+    owner_confirmation: confirmed_by_owner
+    allowed_use: working_context
+    restrictions: "Career priorities stated 2026-11-19."
+  - id: PM-003
+    statement: "The applicant sent notices to six mentors on 12 October 2026 reallocating 12 students, two per mentor, after a mentor withdrew."
+    sources: [SRC-CHAT-PEER]
+    source_type: applicant_record
+    verification_status: reported_and_notice_confirmed
+    owner_confirmation: confirmed_by_owner
+    allowed_use: working_context
+    restrictions: "Notifications do not establish that all students were entered in the register or received subsequent contact. Protect participant identities."

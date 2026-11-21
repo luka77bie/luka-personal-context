@@ -8,7 +8,7 @@
 | --- | --- | --- |
 | English CV | Redacted education, internship, research, and peer mentoring summaries | SRC-CV. Extracted source text reviewed |
 | Adviser reference packet | Research outcomes and limitations, plus topic leads and evidence for two Johns Hopkins essays | SRC-ADVISOR. Extracted source text reviewed |
-| Cornell personal statement and academic statement of purpose | Draft references, evidence mapping, estimated word counts, and factual review | SRC-CORNELL-PS, SRC-CORNELL-SOP |
+| Cornell essays and UCL finance statement | Cornell draft references, evidence mapping, estimated word counts, and factual review; UCL draft used to cross-check work descriptions | SRC-CORNELL-PS, SRC-CORNELL-SOP, SRC-UCL-PS |
 | Academic records and applicant statements | Course and grade context, office hours, and coordination duties | SRC-APPLICANT, SRC-TRANSCRIPT-REFERENCE. Official grades require university records |
 | Project records | References to the ETF rotation and risk dashboard repositories, with summaries of housing, Brazil, competition, and placement experiences | Project repositories located. Runs, individual responsibilities, and figures need further verification |
 
