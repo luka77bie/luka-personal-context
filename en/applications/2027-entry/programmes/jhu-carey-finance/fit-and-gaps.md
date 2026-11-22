@@ -6,7 +6,7 @@ These possibilities support the applicant’s selection. Check resource eligibil
 
 | Experience | Gap to address | Training to verify | Intended use |
 | --- | --- | --- | --- |
-| ST-01 / ETF | Extend strategy validation to valuation, markets and risk | Choose the 9- or 15-month route and verify access to Financial Modeling and Valuation | Combine fundamentals and factor results within the limits of the evidence |
+| ST-01 / ETF | Extend strategy validation to valuation, markets and risk | Choose the 9-, 12- or 15-month route and verify access to Financial Modeling and Valuation | Combine fundamentals and factor results within the limits of the evidence |
 | ST-07 / ICBC | Move from industry information to financial models and valuation | Check courses and practical opportunities for the selected route | Assess how industry cycles affect cash-flow assumptions and risk |
 
 [Programme research and official sources](programme-research.md) · [Story bank](../../../../stories/story-bank.md)

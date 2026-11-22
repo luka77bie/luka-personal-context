@@ -2,6 +2,10 @@
 
 [首页](../../../../../../README.md) · [项目工作区](../../status.md) · [English](../../../../../../../en/applications/2027-entry/programmes/jhu-carey-finance/essays/elective-essay/draft.md)
 
-**来源**：SRC-ADVISOR · 文书 2，工作稿。**批次**：2027 工作材料。**作者和编辑历史**：待本人确认。草稿原件由本人管理。
+**当前工作稿** · [11 月 22 日的文书原稿](https://chatgpt.com/library?file_id=libfile_dc885cdbd5308191913817aa292b8083&account_id=personal)
 
-[题目](prompt.md) · [审阅](review.md)
+挫折经历与篮球队，正文 485 词。来源 SRC-JHU-ESSAYS。作者、修改历史和递交状态待本人确认。
+
+早期来源 SRC-ADVISOR 保留作版本对照。
+
+[题目](prompt.md) · [逐篇审阅](review.md)

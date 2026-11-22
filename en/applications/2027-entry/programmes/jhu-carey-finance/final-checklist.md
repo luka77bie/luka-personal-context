@@ -7,4 +7,4 @@
 - [ ] Verify access to the named courses and programme resources.
 - [ ] Have the applicant review the final text and declarations. Record the version and date after submission.
 
-Confirm the 9- or 15-month route, round, exact prompts, second essay selection and availability of a professional reference.
+Body counts verified at 495, 485 and 488 words. Before submission, check the basketball role and results, fund selection, chosen route and campus, portal wording and the professional reference.

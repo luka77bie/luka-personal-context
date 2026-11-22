@@ -15,3 +15,5 @@
 题目记录见 [文书目录](essays/README.md)。每个题目页记录官网题意、可确认的原文、来源和门户状态。
 
 [申请官网](https://carey.jhu.edu/admissions/how-to-apply/ms-full-time) · [课程与项目](https://carey.jhu.edu/programs/master-science/finance)
+
+**11 月 22 日补充核对。** 两篇必交文书各 300–500 词，分别在开头标示所答问题，按 12 磅、双倍行距排版。另可提交背景说明。所选网申题目与提交状态仍需本人核对。 [申请说明](https://carey.jhu.edu/admissions/how-to-apply/ms-full-time)

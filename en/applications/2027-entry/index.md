@@ -7,7 +7,7 @@ Start with the [Application strategy](application-strategy.md) and [Programme tr
 | Programme | Progress | Records |
 | --- | --- | --- |
 | Cornell Dyson MPS AEM | One fact and requirements review of existing PS and SOP drafts | [Status](programmes/cornell-aem/status.md) · [Requirements](programmes/cornell-aem/requirements.md) · [Review](programmes/cornell-aem/final-checklist.md) |
-| Johns Hopkins Carey MS Finance | Draft material in the adviser packet. Exact portal prompts pending | [Status](programmes/jhu-carey-finance/status.md) · [Requirements](programmes/jhu-carey-finance/requirements.md) |
+| Johns Hopkins Carey MS Finance | Both required essays and the optional statement reviewed | [Status](programmes/jhu-carey-finance/status.md) · [Requirements](programmes/jhu-carey-finance/requirements.md) |
 | Columbia SPS MS ERM | Under consideration. Candidate evidence and risk topics identified | [Status](programmes/columbia-erm/status.md) · [Requirements](programmes/columbia-erm/requirements.md) |
 | Duke Fuqua MQM | Under consideration. Track and programme-specific goals pending | [Status](programmes/duke-mqm/status.md) · [Requirements](programmes/duke-mqm/requirements.md) |
 

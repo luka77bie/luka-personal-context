@@ -4,7 +4,7 @@
 
 [Full programme workspace](2027-entry/programmes/jhu-carey-finance/status.md)
 
-The adviser packet contains two working essay leads. The route, application round, exact prompts, and submission status remain unconfirmed.
+The 22 November document contains two required essays on investment research and a high-school basketball setback, plus an additional background statement. The CFA retrospective in the adviser packet is an earlier option. The exact portal wording, route, campus, round, professional referee and submission status still need confirmation.
 
 | Item | Record |
 | --- | --- |
@@ -15,11 +15,12 @@ The adviser packet contains two working essay leads. The route, application roun
 
 [Full-time admissions](https://carey.jhu.edu/admissions/how-to-apply/ms-full-time) · [Finance programme](https://carey.jhu.edu/programs/master-science/finance)
 
-| Working draft | Evidence and limits |
-| --- | --- |
-| Lasting value in finance | Use ETF rotation (ST-01) to discuss retaining the baseline. Explain validation limits and distinguish research from live results. Check the actual prompt first |
-| Research setback | Use the geopolitical-risk challenge (ST-02) to discuss one review action he took. Verify the competition outcome and team scope, and give the essay a different purpose from the first |
+| Essay | Material in the current draft | Review |
+| --- | --- | --- |
+| Investment research and lasting value | Eli Lilly, ICBC, Founder and independent ETF work. Focus on a decision informed by research. | [Review](2027-entry/programmes/jhu-carey-finance/essays/required-essay/review.md) |
+| Basketball setback | A captain changes the starting lineup and rotations. Verify role and results. | [Review](2027-entry/programmes/jhu-carey-finance/essays/elective-essay/review.md) |
+| Additional background statement | UK study, Brazil coursework, placements and mentoring. Identify any background that needs clarification. | [Review](2027-entry/programmes/jhu-carey-finance/essays/additional-information/review.md) |
 
-**Fit, CV, and interview.** Confirm the 9- or 15-month route. Verify access to valuation and modelling resources and connect them to industry cash flow (ST-07) and strategy testing. Keep the CV to one page and distinguish team from individual work. Prepare to explain data scope, costs, out-of-sample metrics, and a real review action. SRC-ADVISOR identifies the working drafts. The applicant manages originals and any submitted versions.
+Carey lists 9-, 12- and 15-month full-time routes. The 9- and 12-month routes run in Baltimore and Washington, D.C. The 15-month route is in Washington, D.C. only. [Programme](https://carey.jhu.edu/programs/master-science/finance)
 
-[Application overview](README.md) · [Stories and evidence](../stories.md)
+[Application overview](README.md)

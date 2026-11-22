@@ -7,7 +7,7 @@
 | 项目 | 进度 | 入口 |
 | --- | --- | --- |
 | 康奈尔大学应用经济与管理硕士 | 有既有个人陈述与学术目的陈述，已做一轮事实与要求核查 | [状态](programmes/cornell-aem/status.md) · [要求](programmes/cornell-aem/requirements.md) · [核查](programmes/cornell-aem/final-checklist.md) |
-| 约翰斯·霍普金斯大学凯瑞商学院金融硕士 | 推荐人背景材料有草稿素材，当前网申原题待确认 | [状态](programmes/jhu-carey-finance/status.md) · [要求](programmes/jhu-carey-finance/requirements.md) |
+| 约翰斯·霍普金斯大学凯瑞商学院金融硕士 | 两篇必交文书及选交说明已核对 | [状态](programmes/jhu-carey-finance/status.md) · [要求](programmes/jhu-carey-finance/requirements.md) |
 | 哥伦比亚大学企业风险管理硕士 | 考虑中，已建候选选材和风险方向 | [状态](programmes/columbia-erm/status.md) · [要求](programmes/columbia-erm/requirements.md) |
 | 杜克大学富卡商学院商业分析硕士 | 考虑中，专业方向与短期目标待确认 | [状态](programmes/duke-mqm/status.md) · [要求](programmes/duke-mqm/requirements.md) |
 

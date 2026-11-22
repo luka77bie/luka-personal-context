@@ -63,3 +63,7 @@ sources:
     kind: application_draft
     locator: "UCL MFin Personal Statement.docx, available outside this repository, read 2026-11-21"
     scope: "Cross-check for structure and draft descriptions. Authorship and programme claims need confirmation. Treat causal language as draft wording."
+  - id: SRC-JHU-ESSAYS
+    kind: application_draft
+    locator: "JHU Carey Essays(1).docx, read 2026-11-22. Private original linked in the material inventory."
+    scope: "Two required drafts and an additional statement. Supports wording, length and material selection. Basketball details and individual outcomes still require corroboration."

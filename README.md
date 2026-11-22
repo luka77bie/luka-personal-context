@@ -39,7 +39,7 @@
 
 ### [约翰斯·霍普金斯大学 · 金融](zh/applications/2027-entry/programmes/jhu-carey-finance/status.md)
 
-推荐人背景材料中有两篇文书素材，学制和网申题目待确定。
+已逐篇审阅 11 月 22 日工作稿：投资研究、篮球队挫折及选交背景说明。
 
 [项目要求](zh/applications/2027-entry/programmes/jhu-carey-finance/requirements.md) · [文书与工作稿](zh/applications/2027-entry/programmes/jhu-carey-finance/essays/README.md)
 

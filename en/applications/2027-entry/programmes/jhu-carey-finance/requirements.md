@@ -15,3 +15,5 @@
 The [essay index](essays/README.md) records the official summary, available exact wording, source and portal status for each prompt.
 
 [Admissions](https://carey.jhu.edu/admissions/how-to-apply/ms-full-time) · [Curriculum and programme](https://carey.jhu.edu/programs/master-science/finance)
+
+**22 November check.** Each of the two required essays is 300–500 words. Label the question, use 12-point type and double spacing. An additional explanation is optional. Check prompt selection and submission status in the applicant’s portal. [Admissions instructions](https://carey.jhu.edu/admissions/how-to-apply/ms-full-time)

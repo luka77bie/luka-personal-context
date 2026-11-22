@@ -9,6 +9,8 @@
 | Student accounts | No verified account was used to assess fit |
 | Interpretation | See [Fit and gaps](fit-and-gaps.md) and update the fit assessment as the applicant confirms priorities and course access |
 
-The underlying check used official pages. The two adviser packet titles locate drafts. Verify current portal prompts.
+The three pieces in the 22 November file were reviewed separately. Confirm prompt wording in the portal.
 
 [Admissions](https://carey.jhu.edu/admissions/how-to-apply/ms-full-time) · [Curriculum and programme](https://carey.jhu.edu/programs/master-science/finance)
+
+The full-time routes last 9, 12 or 15 months. The first two run in Baltimore and Washington, D.C. The 15-month route runs in Washington, D.C. only. [Routes and campuses](https://carey.jhu.edu/programs/master-science/finance)

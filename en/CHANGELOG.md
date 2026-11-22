@@ -2,6 +2,10 @@
 
 [Home](README.md) · [简体中文](../zh/CHANGELOG.md)
 
+## 22 November 2026 · Original files and Carey draft review
+
+The inventory now links five private originals. The Carey workspace records both required essays and the optional statement, with body counts, evidence checks and updated programme routes.
+
 ## 21 November 2026 · Complete Chinese and English editions
 
 Both editions contain the full personal context, application methods, programme workspaces and maintenance records. The November review updated the relevant records for career goals, ETF tests, competition, office hours, placements and peer mentoring.

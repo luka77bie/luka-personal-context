@@ -39,7 +39,7 @@ Four prompts indexed. Track and degree conferral date pending.
 
 ### [Johns Hopkins · Finance](applications/2027-entry/programmes/jhu-carey-finance/status.md)
 
-Two essay leads in the adviser packet. Route and portal wording pending.
+The 22 November file has received an initial review of the investment research essay, basketball setback and optional background statement.
 
 [Requirements](applications/2027-entry/programmes/jhu-carey-finance/requirements.md) · [Essays and working drafts](applications/2027-entry/programmes/jhu-carey-finance/essays/README.md)
 

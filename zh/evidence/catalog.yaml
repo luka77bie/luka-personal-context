@@ -63,3 +63,7 @@ sources:
     kind: application_draft
     locator: "UCL MFin Personal Statement.docx，原件另存，2026-11-21 已读。"
     scope: "用于核对结构及草稿中对经历的描述。作者与项目匹配主张待确认。因果表述仍属工作稿措辞。"
+  - id: SRC-JHU-ESSAYS
+    kind: application_draft
+    locator: "JHU Carey Essays(1).docx，2026-11-22 已读，私人原稿入口见中文材料清单。"
+    scope: "两篇必交稿及一篇补充说明。用于核对草稿的措辞、篇幅和选材，篮球经历及各项成果仍待独立核实。"

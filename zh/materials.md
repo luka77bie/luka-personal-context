@@ -2,6 +2,18 @@
 
 [首页](README.md) · [English](../en/materials.md)
 
+## 打开申请原件
+
+以下入口使用本人现有的私人文件权限。中英文版指向相同的 Word 原件。
+
+- [英文简历](https://chatgpt.com/library?file_id=libfile_a8eae325c6188191b1b44028999e4da6&account_id=personal)
+- [康奈尔个人陈述](https://chatgpt.com/library?file_id=libfile_4c95c050af148191ab8b8a85949306fd&account_id=personal)
+- [康奈尔学术目的陈述](https://chatgpt.com/library?file_id=libfile_956e379b781c81919055860944f58fcc&account_id=personal)
+- [约翰斯·霍普金斯大学三篇文书](https://chatgpt.com/library?file_id=libfile_dc885cdbd5308191913817aa292b8083&account_id=personal)
+- [伦敦大学学院金融个人陈述](https://chatgpt.com/library?file_id=libfile_c8c63819b1a48191950a6dc3c5e6238a&account_id=personal)
+
+[凯瑞三篇文书审阅](applications/2027-entry/programmes/jhu-carey-finance/essays/README.md)
+
 ## 仓库已收录
 
 | 材料 | 仓库中有什么 | 来源状态 |

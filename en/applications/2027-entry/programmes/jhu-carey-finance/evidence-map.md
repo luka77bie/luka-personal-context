@@ -2,11 +2,14 @@
 
 [Home](../../../../README.md) · [Programme workspace](status.md) · [简体中文](../../../../../zh/applications/2027-entry/programmes/jhu-carey-finance/evidence-map.md)
 
-Read the [Story bank](../../../../stories/story-bank.md), [Claims register](../../../../facts/claims.yaml) and [Discrepancies](../../../../facts/conflicts.md). Select evidence according to the actual prompt, applicant confirmation and permitted use.
+Each part of the working file serves a different purpose.
 
-| Essay | What the prompt asks | Story and claims | Individual decision to verify | Scope |
-| --- | --- | --- | --- | --- |
-| Essay 1 working topic | Finance and lasting value | ST-01 · ETF-001 | Kept MOM60 after the out-of-sample comparison | Describe validation limits and check the actual prompt |
-| Essay 2 working topic | Research setback and retrospective | ST-02 · CFA-001/CFA-002 | How he identified a problem and discussed it with the team | Confirm individual actions and the prototype scope |
+| Essay | Material in the current draft | Review |
+| --- | --- | --- |
+| Investment research and lasting value | Eli Lilly, ICBC, Founder and independent ETF work. Focus on a decision informed by research. | [Review](essays/required-essay/review.md) |
+| Basketball setback | A captain changes the starting lineup and rotations. Verify role and results. | [Review](essays/elective-essay/review.md) |
+| Additional background statement | UK study, Brazil coursework, placements and mentoring. Identify any background that needs clarification. | [Review](essays/additional-information/review.md) |
 
-[Essays](essays/README.md) · [Essay allocation](essay-allocation.md)
+For Essay 1 check ST-01, ST-07 and CAR-001. For the third piece check BRA-001, PM-001 and PM-002. Basketball details are sourced to the working draft. The earlier CFA retrospective remains an alternative for other prompts.
+
+[Story bank](../../../../stories/story-bank.md) · [Claims](../../../../facts/claims.yaml) · [Prompts and drafts](essays/README.md)
