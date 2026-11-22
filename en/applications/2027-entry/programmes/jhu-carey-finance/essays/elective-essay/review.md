@@ -11,3 +11,7 @@
 Counts exclude headings, prompts and printed counts and join line-wrapped words. Source SRC-JHU-ESSAYS.
 
 [22 November working draft](https://chatgpt.com/library?file_id=libfile_dc885cdbd5308191913817aa292b8083&account_id=personal) · [Essay index](../README.md)
+
+## Proposed revision
+
+A [362-word suggested edit](proposed-edit.md) is now available alongside the 485-word source draft. It explains the tactical judgement before the lineup decision, retains the reported results and consolidates the reflection. Specific possessions, dialogue and tactical actions need firsthand recollection. Roles and scores remain draft-sourced.

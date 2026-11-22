@@ -8,6 +8,8 @@ The 22 November document contains two required essays on investment research and
 
 The exact portal wording, route, campus, round, professional referee and submission status still need confirmation.
 
+The basketball essay has a [362-word proposed revision](essays/elective-essay/proposed-edit.md), awaiting applicant review.
+
 - [Requirements](requirements.md) · [Programme research](programme-research.md) · [Fit and skills gaps](fit-and-gaps.md)
 - [Evidence map](evidence-map.md) · [Essay allocation](essay-allocation.md) · [Essays](essays/README.md)
 - [CV](cv-tailoring.md) · [References](recommender-brief.md) · [Interview](interview-prep.md)

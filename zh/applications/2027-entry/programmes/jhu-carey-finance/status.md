@@ -8,6 +8,8 @@
 
 网申原题、学制、校区、轮次、职业推荐人及最终递交状态仍待确认。
 
+篮球第二篇已完成一版 362 词[修改建议](essays/elective-essay/proposed-edit.md)，待本人审阅。
+
 - [要求](requirements.md) · [项目研究](programme-research.md) · [匹配与能力缺口](fit-and-gaps.md)
 - [选材](evidence-map.md) · [各文书分工](essay-allocation.md) · [文书目录](essays/README.md)
 - [简历](cv-tailoring.md) · [推荐人](recommender-brief.md) · [面试](interview-prep.md)

@@ -9,3 +9,7 @@ Basketball setback · 485 words. Source SRC-JHU-ESSAYS. Authorship, revision his
 Earlier source SRC-ADVISOR remains available for version comparison.
 
 [Prompt](prompt.md) · [Review](review.md)
+
+**Proposed edit** · [362-word revision](proposed-edit.md) · 22 November 2026
+
+AI-assisted editing of the working draft above. Awaiting applicant review.

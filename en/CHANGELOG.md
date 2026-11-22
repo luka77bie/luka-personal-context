@@ -2,6 +2,10 @@
 
 [Home](README.md) · [简体中文](../zh/CHANGELOG.md)
 
+## 22 November 2026 · Basketball essay revision
+
+Added a 362-word English suggested revision, a corresponding Chinese translation, editorial notes and factual checks. Linked the proposal from both editions' draft records, reviews, programme status and essay index.
+
 ## 22 November 2026 · Original files and Carey draft review
 
 The inventory now links five private originals. The Carey workspace records both required essays and the optional statement, with body counts, evidence checks and updated programme routes.
