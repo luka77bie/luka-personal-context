@@ -2,17 +2,18 @@
 
 [Home](README.md) · [简体中文](../zh/materials.md)
 
-## Open application originals
+## Original application files
 
-These links open the same Word files from either language edition using the owner’s existing private access.
+The following originals have been reviewed but are deliberately not included or linked from this public repository.
 
-- [English CV](https://chatgpt.com/library?file_id=libfile_a8eae325c6188191b1b44028999e4da6&account_id=personal)
-- [Cornell personal statement](https://chatgpt.com/library?file_id=libfile_4c95c050af148191ab8b8a85949306fd&account_id=personal)
-- [Cornell academic statement of purpose](https://chatgpt.com/library?file_id=libfile_956e379b781c81919055860944f58fcc&account_id=personal)
-- [Johns Hopkins Carey essay file](https://chatgpt.com/library?file_id=libfile_dc885cdbd5308191913817aa292b8083&account_id=personal)
-- [UCL finance personal statement](https://chatgpt.com/library?file_id=libfile_c8c63819b1a48191950a6dc3c5e6238a&account_id=personal)
+- English CV
+- Cornell personal statement
+- Cornell academic statement of purpose
+- Johns Hopkins Carey essay file
+- UCL finance personal statement
+- Adviser application packet
 
-[Carey essay reviews](applications/2027-entry/programmes/jhu-carey-finance/essays/README.md)
+Only redacted summaries, claim IDs and working reviews appear here. [Carey essay reviews](applications/2027-entry/programmes/jhu-carey-finance/essays/README.md)
 
 ## What the repository contains
 

@@ -8,6 +8,6 @@
 - [自选文书](elective-essay/prompt.md) · [审阅事项](elective-essay/review.md) · [工作稿记录](elective-essay/draft.md) · [修改稿](elective-essay/proposed-edit.md)
 - [补充背景说明](additional-information/review.md)
 
-仅计正文，排除题目、标题和文末字数标注，合并跨行断词。 [11 月 22 日的文书原稿](https://chatgpt.com/library?file_id=libfile_dc885cdbd5308191913817aa292b8083&account_id=personal)
+仅计正文，排除题目、标题和文末字数标注，合并跨行断词。 11 月 22 日的文书原稿（私人原件保存在公开仓库之外）
 
 [项目要求](../requirements.md) · [提交记录](../submitted/README.md)

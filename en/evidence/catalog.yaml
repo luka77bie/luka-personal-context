@@ -65,5 +65,21 @@ sources:
     scope: "Cross-check for structure and draft descriptions. Authorship and programme claims need confirmation. Treat causal language as draft wording."
   - id: SRC-JHU-ESSAYS
     kind: application_draft
-    locator: "JHU Carey Essays(1).docx, read 2026-11-22. Private original linked in the material inventory."
+    locator: "JHU Carey Essays(1).docx, read 2026-11-22. Original retained outside the public repository."
     scope: "Two required drafts and an additional statement. Supports wording, length and material selection. Basketball details and individual outcomes still require corroboration."
+  - id: SRC-CHAT-BASKETBALL
+    kind: applicant_chat_account
+    locator: "2026-11-16 and 2026-11-22 application discussions about the high-school basketball setback."
+    scope: "Applicant account of captaincy, the three-point loss, role adjustment, subsequent matches and reflection. Exact authority, tactics and contemporaneous reactions need corroboration."
+  - id: SRC-CHAT-FITNESS
+    kind: applicant_chat_account
+    locator: "2026-04-20 and 2026-11-22 discussions about training, weight change, the Manchester Half Marathon and 2027 marathon preparation."
+    scope: "Owner-reported personal history. Verify formal race details before external use and keep medical details and current body measurements out of the public record."
+  - id: SRC-CHAT-WRITING
+    kind: applicant_preferences
+    locator: "2026-10-01, 2026-10-23, 2026-11-17 and 2026-11-22 application-writing and interview-practice discussions."
+    scope: "Owner-stated preferences for concise, natural, evidence-backed writing and staged spoken-English practice."
+  - id: SRC-CHAT-INTERVIEW
+    kind: applicant_chat_account
+    locator: "2026-11-22 graduate interview practice."
+    scope: "Exploratory career wording and spoken-answer preferences. Do not override separately confirmed career priorities without checking."

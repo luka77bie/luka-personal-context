@@ -2,7 +2,7 @@
 
 [Home](../README.md) · [简体中文](../../zh/profile/motivations.md)
 
-On 19 November 2026 he identified equity research and company fundamental analysis as his immediate goals, with multi-asset allocation research longer term. He wants to use quantitative testing in investment research. CAR-001.
+On 19 November 2026 he identified equity research and company fundamental analysis as his immediate goals, with multi-asset allocation research longer term. He wants to use quantitative testing in investment research. During interview practice on 22 November he also named private equity as a longer-term interest. Treat private equity as exploratory until he confirms whether it changes the earlier sequence. CAR-001, CAR-002.
 
 One possible thread in the evidence is using economics to understand a mechanism, then using data, validation and real constraints to assess a decision. This is an interpretation for the applicant to consider.
 

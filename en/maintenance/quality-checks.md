@@ -10,6 +10,6 @@
 | Story selection | Find evidence and limits for academic, career, setback and community prompts |
 | Applicant voice | Check sample authorship and editing status. Ask the applicant about difficulties and reflection. Leave unverified assumptions open |
 | Application requirements | Verify cycle, time zone, exact prompt, authorship, requirements and eligibility |
-| Repository maintenance | Check relative links, unique claim and story IDs, and agreement between tracker and status pages. Check personal information and permissions before adding records |
+| Repository maintenance | Check relative links, unique claim and story IDs, and agreement between tracker and status pages. Because the repository is public, scan every update for contact details, addresses, credentials, private file URLs, third-party identities and confidential originals |
 
 See the [Cornell draft review](../applications/2027-entry/programmes/cornell-aem/final-checklist.md) for the actual drafts inspected and the details that still need applicant confirmation.

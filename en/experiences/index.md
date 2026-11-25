@@ -13,6 +13,8 @@
 | [Founder Securities](internships/founder.md) | Data processing, ETF and strategy research | Dates and prototype scope |
 | [Dragon Rise](internships/dragon-rise.md) | Cash flow, sensitivity and electrification | Steps he completed independently |
 | [Peer mentoring](activities/peer-mentoring.md) | Coordination, responsibility and ARDL explanation | Headcounts and activity status |
+| [Basketball captaincy](activities/basketball-captaincy.md) | Leadership, role adjustment and setback | Coaching remit and tactical detail |
+| [Fitness and marathon preparation](activities/fitness-and-marathon.md) | Discipline, long-term routine and restarting | Official race result and date |
 | [Portfolio Risk Dashboard](research/portfolio-risk-dashboard.md) | AI-assisted coding and skill limits | Ownership and independent validation |
 
 Consult the [Claims register](../facts/claims.yaml), [Discrepancies](../facts/conflicts.md) and [Sources](../evidence/catalog.yaml).

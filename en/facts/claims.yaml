@@ -156,3 +156,42 @@ claims:
     owner_confirmation: confirmed_by_owner
     allowed_use: working_context
     restrictions: "Notifications do not establish that all students were entered in the register or received subsequent contact. Protect participant identities."
+  - id: BAS-001
+    statement: "In his final high-school basketball season, the applicant reports serving as captain and starting centre. After a three-point opening loss and the coach's absence, he voluntarily stepped out of the starting lineup to observe and help reorganise the team; his account records two subsequent wins before knockout elimination."
+    sources: [SRC-JHU-ESSAYS, SRC-CHAT-BASKETBALL]
+    source_type: applicant_account_and_application_draft
+    verification_status: owner_reported
+    owner_confirmation: confirmed_by_owner
+    allowed_use: working_context
+    restrictions: "Confirm the exact coaching remit, tactical action and formal result before external use. Do not claim that the lineup change alone caused later wins or invent teammate dialogue."
+  - id: FIT-001
+    statement: "The applicant reports beginning systematic training at university, losing about 20 kilograms over roughly three to four months, and later maintaining a routine of about five training sessions per week."
+    sources: [SRC-CHAT-FITNESS]
+    source_type: applicant_account
+    verification_status: owner_reported
+    owner_confirmation: confirmed_by_owner
+    allowed_use: working_context
+    restrictions: "Use as a personal discipline example only when relevant. Do not add medical details or current body measurements."
+  - id: FIT-002
+    statement: "The applicant reports completing the Manchester Half Marathon in about 2 hours 24 minutes and registering for the 2027 Manchester Marathon after restarting regular running."
+    sources: [SRC-CHAT-FITNESS]
+    source_type: applicant_account
+    verification_status: owner_reported
+    owner_confirmation: confirmed_by_owner
+    allowed_use: working_context
+    restrictions: "Confirm official race time and date before formal citation."
+  - id: WRT-001
+    statement: "The applicant prefers concise, natural writing that resembles his own thinking, uses concrete evidence, and avoids unsupported or formulaic claims. For spoken-English practice he prefers short questions and two-to-three-sentence answers before longer responses."
+    sources: [SRC-CHAT-WRITING]
+    source_type: applicant_preferences
+    verification_status: owner_reported
+    owner_confirmation: confirmed_by_owner
+    allowed_use: working_context
+  - id: CAR-002
+    statement: "Private equity appeared as a longer-term exploratory interest during interview practice on 22 November 2026."
+    sources: [SRC-CHAT-INTERVIEW]
+    source_type: applicant_account
+    verification_status: owner_reported
+    owner_confirmation: confirmed_by_owner
+    allowed_use: working_context
+    restrictions: "Do not treat this as replacing the 19 November immediate priority of equity research and company fundamentals without renewed confirmation."

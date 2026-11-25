@@ -65,5 +65,21 @@ sources:
     scope: "用于核对结构及草稿中对经历的描述。作者与项目匹配主张待确认。因果表述仍属工作稿措辞。"
   - id: SRC-JHU-ESSAYS
     kind: application_draft
-    locator: "JHU Carey Essays(1).docx，2026-11-22 已读，私人原稿入口见中文材料清单。"
+    locator: "JHU Carey Essays(1).docx，2026-11-22 已读，原件保存在公开仓库之外。"
     scope: "两篇必交稿及一篇补充说明。用于核对草稿的措辞、篇幅和选材，篮球经历及各项成果仍待独立核实。"
+  - id: SRC-CHAT-BASKETBALL
+    kind: applicant_chat_account
+    locator: "2026-11-16 与 2026-11-22 关于高中篮球挫折的申请讨论。"
+    scope: "本人对队长经历、三分惜败、角色调整、后续比赛和反思的陈述。具体权限、战术及当时反应仍需核对。"
+  - id: SRC-CHAT-FITNESS
+    kind: applicant_chat_account
+    locator: "2026-04-20 与 2026-11-22 关于训练、减重、曼彻斯特半马及 2027 全马准备的讨论。"
+    scope: "本人陈述。对外使用比赛信息前核对正式记录，公开资料不加入健康隐私。"
+  - id: SRC-CHAT-WRITING
+    kind: applicant_preferences
+    locator: "2026-10-01、2026-10-23、2026-11-17 与 2026-11-22 的申请写作和面试练习讨论。"
+    scope: "本人对简洁、自然、证据充分的写作，以及分阶段英语口语练习的偏好。"
+  - id: SRC-CHAT-INTERVIEW
+    kind: applicant_chat_account
+    locator: "2026-11-22 研究生面试练习。"
+    scope: "记录探索性职业表述和口语练习偏好。未核对前不覆盖另行确认的职业重点。"

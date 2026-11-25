@@ -13,6 +13,8 @@
 | [方正证券](internships/founder.md) | 数据处理、ETF、策略研究 | 实习日期、原型边界 |
 | [龙升投资集团](internships/dragon-rise.md) | 现金流、敏感性分析、电动化 | 独立承担的步骤 |
 | [朋辈辅导](activities/peer-mentoring.md) | 协调、责任、解释 ARDL | 人数和活动状态 |
+| [篮球队长](activities/basketball-captaincy.md) | 领导、角色调整、应对失利 | 临时带队权限和战术细节 |
+| [健身与马拉松准备](activities/fitness-and-marathon.md) | 自律、长期习惯、中断后恢复 | 官方比赛成绩和日期 |
 | [投资组合风险看板](research/portfolio-risk-dashboard.md) | 人工智能辅助编程、技能边界 | 个人个人贡献和独立校验 |
 
 核对档案见 [事实清单](../facts/claims.yaml)、[冲突](../facts/conflicts.md) 和 [来源](../evidence/catalog.yaml)。

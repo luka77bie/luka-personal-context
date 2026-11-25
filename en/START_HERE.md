@@ -11,4 +11,6 @@ Start with [current status](CURRENT.md). Luka is a final-year economics student 
 | Check a mark, date or role | [Claims](facts/claims.yaml) · [Discrepancies](facts/conflicts.md) · [Source catalogue](evidence/catalog.yaml) |
 | Provide context to another tool | Choose a [task-specific summary](context-packs/index.md) |
 
-Start with [housing regression](experiences/research/boston-housing.md) for empirical methods, [ETF research](experiences/research/etf-rotation.md) for judgement or [peer mentoring](experiences/activities/peer-mentoring.md) for communication. Consult the [story bank](stories/story-bank.md) and [working instructions](AGENTS.md).
+This repository is public. Do not add contact details, addresses, identity documents, credentials, raw recommendations or identifying third-party information.
+
+Start with [housing regression](experiences/research/boston-housing.md) for empirical methods, [ETF research](experiences/research/etf-rotation.md) for judgement or [peer mentoring](experiences/activities/peer-mentoring.md) for communication. Use [basketball captaincy](experiences/activities/basketball-captaincy.md) for role adjustment and [fitness and marathon preparation](experiences/activities/fitness-and-marathon.md) for long-term routine. Consult the [story bank](stories/story-bank.md) and [working instructions](AGENTS.md).

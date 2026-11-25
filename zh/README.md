@@ -7,7 +7,7 @@
 ## 个人资料
 
 - **认识我**　[个人背景](profile/overview.md) · [行为与价值观](profile/personality.md) · [学习与工作方式](profile/working-and-learning-style.md) · [动机与方向](profile/motivations.md) · [写作语气](profile/voice.md)
-- **我做过什么**　[十项经历](experiences/index.md) · [八个申请故事](stories/story-bank.md) · [关键决定与待核实细节](stories/decision-moments.md)
+- **我做过什么**　[十二项经历](experiences/index.md) · [十个申请故事](stories/story-bank.md) · [关键决定与待核实细节](stories/decision-moments.md)
 - **哪些事实可以引用**　[材料收录清单](materials.md) · [事实表](facts/claims.yaml) · [学业记录](facts/academic-record.md) · [时间线](facts/timeline.csv) · [来源目录](evidence/catalog.yaml) · [待核对事项](facts/conflicts.md)
 - **给人工智能的背景**　[按任务选读背景摘要](context-packs/index.md) · [当前进展](CURRENT.md) · [使用指南](START_HERE.md)
 
@@ -42,6 +42,10 @@
 已逐篇审阅 11 月 22 日工作稿：投资研究、篮球队挫折及选交背景说明。
 
 [项目要求](applications/2027-entry/programmes/jhu-carey-finance/requirements.md) · [文书与工作稿](applications/2027-entry/programmes/jhu-carey-finance/essays/README.md)
+
+## 公开版本与隐私
+
+本仓库为公开的中英双语个人背景与申请工作区。公开内容只包含本人允许整理的脱敏事实、经历摘要、工作稿和核验状态。身份证件、联系方式、住址、账号凭据、原始成绩单、推荐信、第三方资料和私人文件入口不进入公开仓库。
 
 ## 维护记录
 

@@ -8,4 +8,4 @@ The Brazil project could show how a teammate changed his interpretation of a dat
 
 Counts exclude headings, prompts and printed counts and join line-wrapped words. Source SRC-JHU-ESSAYS.
 
-[22 November working draft](https://chatgpt.com/library?file_id=libfile_dc885cdbd5308191913817aa292b8083&account_id=personal) · [Essay index](../README.md)
+22 November working draft — private original retained outside the public repository · [Essay index](../README.md)

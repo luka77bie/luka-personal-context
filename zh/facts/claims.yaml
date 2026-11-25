@@ -156,3 +156,42 @@ claims:
     owner_confirmation: confirmed_by_owner
     allowed_use: working_context
     restrictions: "通知只证明重新分配已告知。登记完整性和后续联系需另查。保留参与者匿名。"
+  - id: BAS-001
+    statement: "本人回忆，高中最后一个篮球联赛赛季担任队长和首发中锋。首场三分惜败且教练缺席时，他主动退出下一场首发，从场边观察并帮助重新组织球队；本人材料记载随后两场获胜，最终止步淘汰赛。"
+    sources: [SRC-JHU-ESSAYS, SRC-CHAT-BASKETBALL]
+    source_type: applicant_account_and_application_draft
+    verification_status: owner_reported
+    owner_confirmation: confirmed_by_owner
+    allowed_use: working_context
+    restrictions: "对外使用前核对临时带队权限、具体战术动作和正式赛果。不把首发调整写成后续获胜的唯一原因，也不补写队友对话。"
+  - id: FIT-001
+    statement: "本人回忆进入大学后开始系统训练，约三至四个月减重约 20 公斤，之后常态为每周训练约五次。"
+    sources: [SRC-CHAT-FITNESS]
+    source_type: applicant_account
+    verification_status: owner_reported
+    owner_confirmation: confirmed_by_owner
+    allowed_use: working_context
+    restrictions: "只在相关题目中作为自律例子。不加入医疗细节或当前身体数据。"
+  - id: FIT-002
+    statement: "本人报告完成曼彻斯特半程马拉松，用时约 2 小时 24 分，并在重新开始规律跑步后报名 2027 年曼彻斯特马拉松。"
+    sources: [SRC-CHAT-FITNESS]
+    source_type: applicant_account
+    verification_status: owner_reported
+    owner_confirmation: confirmed_by_owner
+    allowed_use: working_context
+    restrictions: "正式引用前核对官方比赛时间和日期。"
+  - id: WRT-001
+    statement: "本人偏好简洁、自然、接近自身思考方式的表达，要求使用具体证据并避免无依据或模板化表述。英语面试练习希望先从短问题和两至三句回答开始，再逐步延长。"
+    sources: [SRC-CHAT-WRITING]
+    source_type: applicant_preferences
+    verification_status: owner_reported
+    owner_confirmation: confirmed_by_owner
+    allowed_use: working_context
+  - id: CAR-002
+    statement: "在 2026 年 11 月 22 日的面试练习中，私募股权被本人提到为较长期的探索兴趣。"
+    sources: [SRC-CHAT-INTERVIEW]
+    source_type: applicant_account
+    verification_status: owner_reported
+    owner_confirmation: confirmed_by_owner
+    allowed_use: working_context
+    restrictions: "未重新确认前，不把它写成已经取代 11 月 19 日确认的股票研究与公司基本面短期重点。"

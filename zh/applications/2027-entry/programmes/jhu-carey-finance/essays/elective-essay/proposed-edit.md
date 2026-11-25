@@ -34,6 +34,6 @@
 
 外线投射、速度、传球及防守纪律的描述也来自原稿。若能回忆一个当时确实看到的回合，可以替换其中一句概括。本人对这次经历的理解及结尾措辞需认可后再用于申请。
 
-[英文修改稿](../../../../../../../en/applications/2027-entry/programmes/jhu-carey-finance/essays/elective-essay/proposed-edit.md) · [原稿](https://chatgpt.com/library?file_id=libfile_dc885cdbd5308191913817aa292b8083&account_id=personal) · [审阅记录](review.md)
+[英文修改稿](../../../../../../../en/applications/2027-entry/programmes/jhu-carey-finance/essays/elective-essay/proposed-edit.md) · 原稿 · [审阅记录](review.md)
 
 [申请说明](https://carey.jhu.edu/admissions/how-to-apply/ms-full-time)要求每篇文书为 300–500 词，并体现本人的想法和声音。定稿前对照所用网申的作者声明及辅助工具条款。

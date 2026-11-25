@@ -8,7 +8,9 @@ Jiacheng Bie (Luka) studies economics at the University of Manchester. Coursewor
 
 His placements cover industry and corporate analysis at ICBC, market data and strategy exploration at Founder Securities, and listed-company analysis and early Hong Kong taxi electrification research at Dragon Rise. ETF rotation was independent research. The geopolitical-risk prototype was team work for the CFA Institute AI Investment Challenge.
 
-He serves as Student Coordinator for BSc Economics Peer Mentoring. See the [experience record](../experiences/activities/peer-mentoring.md) for a redacted example.
+Campus and personal experience includes serving as Student Coordinator for BSc Economics Peer Mentoring, captaining a high-school basketball team and rebuilding endurance toward a 2027 marathon. The basketball and fitness records add examples of role adjustment and long-term routine without replacing the academic and professional evidence.
+
+[Peer mentoring](../experiences/activities/peer-mentoring.md) · [Basketball captaincy](../experiences/activities/basketball-captaincy.md) · [Fitness and marathon](../experiences/activities/fitness-and-marathon.md)
 
 For external use, check the [Claims register](../facts/claims.yaml) and [Discrepancies](../facts/conflicts.md) claim by claim.
 

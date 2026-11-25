@@ -1,5 +1,9 @@
 # Change history
 
+## 25 November 2026 · Public bilingual profile expansion
+
+Reviewed prior conversations and added basketball captaincy, fitness transformation and marathon preparation as two new experience cards and two story records. Expanded writing voice, interview-practice preferences, working style and career-direction conflicts. Removed links to private originals, added public-repository privacy rules and prepared both editions for public visibility.
+
 [Home](README.md) · [简体中文](../zh/CHANGELOG.md)
 
 ## 22 November 2026 · Basketball essay revision

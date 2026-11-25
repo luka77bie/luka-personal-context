@@ -7,7 +7,7 @@ Jiacheng Bie (Luka) is in his final year of BSc Economics at the University of M
 ## Personal context
 
 - **Background and personality**　[Overview](profile/overview.md) · [Behaviour and values](profile/personality.md) · [Working and learning style](profile/working-and-learning-style.md) · [Motivation](profile/motivations.md) · [Writing voice](profile/voice.md)
-- **Experience and examples**　[Ten experiences](experiences/index.md) · [Eight application stories](stories/story-bank.md) · [Decisions and open details](stories/decision-moments.md)
+- **Experience and examples**　[Twelve experiences](experiences/index.md) · [Ten application stories](stories/story-bank.md) · [Decisions and open details](stories/decision-moments.md)
 - **Evidence for a claim**　[Material inventory](materials.md) · [Claims](facts/claims.yaml) · [Academic record](facts/academic-record.md) · [Timeline](facts/timeline.csv) · [Source catalogue](evidence/catalog.yaml) · [Discrepancies](facts/conflicts.md)
 - **Context for an AI assistant**　[Task-specific summaries](context-packs/index.md) · [Current status](CURRENT.md) · [Reading guide](START_HERE.md)
 
@@ -42,6 +42,10 @@ Four prompts indexed. Track and degree conferral date pending.
 The 22 November file has received an initial review of the investment research essay, basketball setback and optional background statement.
 
 [Requirements](applications/2027-entry/programmes/jhu-carey-finance/requirements.md) · [Essays and working drafts](applications/2027-entry/programmes/jhu-carey-finance/essays/README.md)
+
+## Public edition and privacy
+
+This is a public bilingual personal-context and application workspace. It includes redacted facts, experience summaries, working drafts and verification status that the owner has chosen to organise publicly. Identity documents, contact details, addresses, credentials, original transcripts, recommendation letters, third-party records and links to private files remain outside the public repository.
 
 ## Maintenance
 

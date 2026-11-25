@@ -8,6 +8,6 @@ The 22 November document contains two required essays on investment research and
 - [Elective essay](elective-essay/prompt.md) · [Review notes](elective-essay/review.md) · [Draft record](elective-essay/draft.md) · [Suggested revision](elective-essay/proposed-edit.md)
 - [Additional background statement](additional-information/review.md)
 
-Counts exclude headings, prompts and printed counts and join line-wrapped words. [22 November working draft](https://chatgpt.com/library?file_id=libfile_dc885cdbd5308191913817aa292b8083&account_id=personal)
+Counts exclude headings, prompts and printed counts and join line-wrapped words. 22 November working draft — private original retained outside the public repository
 
 [Requirements](../requirements.md) · [Submission record](../submitted/README.md)

@@ -36,6 +36,6 @@ The three-point loss, two subsequent wins, decision to leave the starting lineup
 
 The accounts of outside shooting, speed, passing and defensive discipline are also draft-sourced. A specific possession recalled by the applicant could replace one general statement. Confirm the personal interpretation and closing language before adopting the revision.
 
-[Original draft](https://chatgpt.com/library?file_id=libfile_dc885cdbd5308191913817aa292b8083&account_id=personal) · [Review record](review.md)
+Original draft · [Review record](review.md)
 
 [Public instructions](https://carey.jhu.edu/admissions/how-to-apply/ms-full-time) set a 300–500-word range and ask for the applicant's own thinking and voice. Check the declaration and assistance terms in the application portal when finalising.

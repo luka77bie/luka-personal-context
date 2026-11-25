@@ -2,7 +2,7 @@
 
 [首页](../../../../../../README.md) · [项目工作区](../../status.md) · [English](../../../../../../../en/applications/2027-entry/programmes/jhu-carey-finance/essays/required-essay/draft.md)
 
-**当前工作稿** · [11 月 22 日的文书原稿](https://chatgpt.com/library?file_id=libfile_dc885cdbd5308191913817aa292b8083&account_id=personal)
+**当前工作稿** · 11 月 22 日的文书原稿（私人原件保存在公开仓库之外）
 
 金融行业与长期价值，正文 495 词。来源 SRC-JHU-ESSAYS。作者、修改历史和递交状态待本人确认。
 

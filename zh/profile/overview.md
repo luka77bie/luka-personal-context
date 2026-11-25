@@ -8,7 +8,9 @@
 
 职业素材来自工行的行业与企业分析、方正证券的市场数据与策略探索、龙升投资集团的财务分析和香港出租车电动化初步研究。独立项目包括 ETF 轮动，团队项目包括 CFA 协会人工智能投资挑战赛的地缘风险原型。
 
-校园经历包括经济学本科朋辈辅导的学生协调员工作。脱敏实例见 [卡片](../experiences/activities/peer-mentoring.md)。
+校园和个人经历包括经济学本科朋辈辅导学生协调员、高中篮球队长，以及重新为 2027 年全马建立耐力基础。篮球与健身记录补充角色调整和长期习惯的例子，不替代学术与职业证据。
+
+[朋辈辅导](../experiences/activities/peer-mentoring.md) · [篮球队长](../experiences/activities/basketball-captaincy.md) · [健身与马拉松](../experiences/activities/fitness-and-marathon.md)
 
 把这个概览当成导航。正式对外写作时，逐条查看 [事实](../facts/claims.yaml) 和 [冲突](../facts/conflicts.md)。
 

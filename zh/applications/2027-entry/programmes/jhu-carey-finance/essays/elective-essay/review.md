@@ -10,7 +10,7 @@
 
 仅计正文，排除题目、标题和文末字数标注，合并跨行断词。 来源 SRC-JHU-ESSAYS。
 
-[11 月 22 日的文书原稿](https://chatgpt.com/library?file_id=libfile_dc885cdbd5308191913817aa292b8083&account_id=personal) · [文书目录](../README.md)
+11 月 22 日的文书原稿（私人原件保存在公开仓库之外） · [文书目录](../README.md)
 
 ## 本轮修改结果
 

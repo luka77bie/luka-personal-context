@@ -11,5 +11,7 @@ Start with a stable story ID from the [Story bank](story-bank.md). Add confirmed
 | Macroeconomic series used inconsistent definitions | [Brazil experience](../experiences/research/brazil-exchange-rate.md) | How did the team decide how to align them? |
 | Explaining a statistical model | [Mentoring experience](../experiences/activities/peer-mentoring.md) | Where was the listener stuck and how did the second explanation change? |
 | Industry context changed the reading of a financial metric | [ICBC experience](../experiences/internships/icbc.md) | Which ratio took on a different meaning in context? |
+| Stepping out of the basketball starting lineup | [Basketball experience](../experiences/activities/basketball-captaincy.md) | What exact defensive pattern or team role did he change after observing from the sideline? |
+| Rebuilding running after a long interruption | [Fitness experience](../experiences/activities/fitness-and-marathon.md) | Which routine made the restart sustainable alongside strength training? |
 
 Other examples may come from training, team sport or personal projects. Choose an episode he can reconstruct, including its sequence and interactions. Confirm reflections and feelings before adding them to the profile.

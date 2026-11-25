@@ -8,13 +8,15 @@
 | 先明确问题，再选方法 | 他在 2026 年 10 月 21 日回顾，投资挑战赛队友一开始把任务理解为预测市场涨跌，他想把重要新闻转成可量化的风险信号。团队用约两次会议统一了研究问题。未晋级后，他回看了新闻噪声、标签一致性、阈值和回归显著性。 | 已找到具体团队决定。队友逐句回应和朋辈辅导对象的直接反馈尚未找到。 |
 | 对模型何时成立感兴趣 | 他确认两次在 Shomak Chakrabarti 的答疑时间讨论隐蔽行动。在另一段习题聊天里，他判断观察到失败不能直接推出偷懒，因为认真工作也可能失败。 | 习题回答有记录。答疑时逐字提问及老师原话尚未找到。 |
 | 重视执行条件 | 他在 2026 年 11 月 21 日回顾，龙升出租车电动化分析涉及采购时点、融资成本、人民币兑港币汇率敞口与回收期。他也确认实际做过净现值测算，主要用已有财报支持后续规划。 | 找到所考虑的变量和测算用途。尚未找到某一个变量变动前后的回收期数字或结论。 |
+| 团队需要变化时能重新定义个人贡献 | 在篮球经历中，他在首场失利后退出首发，从场边观察对方防守并重新安排角色。 | 过程和反思来自本人。临时带队权限和一项具体战术仍待确认。 |
+| 用规律习惯推进困难目标 | 本人报告通过大学期间系统训练减重约 20 公斤、常态每周训练约五次、完成半马，并重新为 2027 年全马建立跑步基础。 | 长期习惯来自本人陈述。对外引用比赛信息时核对正式记录。 |
 
-本轮于 2026 年 11 月 21 日回查。聊天回答按本人陈述记录，基金结果以项目说明为依据。关于工作节奏、收到批评及独立与合作偏好，目前仍缺明确的本人描述。
+本轮于 2026 年 11 月 25 日回查。聊天回答按本人陈述记录，基金结果以项目说明为依据。健身经历补充了长期习惯的例子；关于收到批评及独立与合作偏好，仍缺明确的本人描述。
 
 [基金轮动项目记录](https://github.com/luka77bie/narrative-aware-etf-rotation#walk-forward-out-of-sample-evaluation) · [故事与选材](../stories/story-bank.md)
 
 其他相关场景包括巴西小组对齐多源数据、住房回归比较控制变量，以及工商银行研究中结合产业背景解读财务指标。朋辈辅导中的模型讲解来自草稿，具体反馈待核实。
 
-[基金轮动](../experiences/research/etf-rotation.md) · [巴西汇率研究](../experiences/research/brazil-exchange-rate.md) · [朋辈辅导](../experiences/activities/peer-mentoring.md) · [住房研究](../experiences/research/boston-housing.md) · [工商银行](../experiences/internships/icbc.md) · [龙升](../experiences/internships/dragon-rise.md)
+[基金轮动](../experiences/research/etf-rotation.md) · [篮球队长](../experiences/activities/basketball-captaincy.md) · [健身与马拉松](../experiences/activities/fitness-and-marathon.md) · [巴西汇率研究](../experiences/research/brazil-exchange-rate.md) · [朋辈辅导](../experiences/activities/peer-mentoring.md) · [住房研究](../experiences/research/boston-housing.md) · [工商银行](../experiences/internships/icbc.md) · [龙升](../experiences/internships/dragon-rise.md)
 
 这些特征是从行为归纳的观察，具体措辞待本人认可。[学习与工作方式](working-and-learning-style.md)
