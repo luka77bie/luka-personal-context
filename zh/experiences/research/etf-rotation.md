@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [English](../../../en/experiences/research/etf-rotation.md)
 
-本人在 11 月 17 日说明，想检验价格动量相近的基金能否凭市场关注度区分未来收益。四折滚动样本外汇总中，60 日动量基准与关注度模型的年化收益分别为 22.21% 和 21.46%，夏普比率分别为 0.859 和 0.838。本人保留基准，最先检查了哪一项尚待核实。ETF-001、ETF-002。[项目结果](https://github.com/luka77bie/narrative-aware-etf-rotation#walk-forward-out-of-sample-evaluation)
+本人在 11 月 17 日说明，想检验价格动量相近的基金能否凭市场关注度区分未来收益。四折滚动样本外汇总中，60 日动量基准与关注度模型的年化收益分别为 22.21% 和 21.46%，夏普比率分别为 0.859 和 0.838。本人保留基准，最先检查了哪一项尚待核实。即时心理反应也没有独立记录，不要补写。ETF-001、ETF-002。[项目结果](https://github.com/luka77bie/narrative-aware-etf-rotation#walk-forward-out-of-sample-evaluation)
 
 **类型**：独立量化研究。实习期间的探索见 [方正证券](../internships/founder.md)。来源 SRC-CV、SRC-ADVISOR、SRC-ETF-REPO。主张 ETF-001。
 

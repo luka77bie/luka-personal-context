@@ -195,3 +195,59 @@ claims:
     owner_confirmation: confirmed_by_owner
     allowed_use: working_context
     restrictions: "Do not treat this as replacing the 19 November immediate priority of equity research and company fundamentals without renewed confirmation."
+
+  - id: MOT-001
+    statement: "The applicant wants systematic methodological training because using a method and judging whether its output is credible are different tasks."
+    sources: [SRC-CHAT-GRAD-MOTIVATION]
+    source_type: applicant_account
+    verification_status: owner_reported
+    owner_confirmation: confirmed_by_owner
+    allowed_use: working_context
+  - id: MOT-002
+    statement: "The applicant identifies demanding collaboration with people from different countries and backgrounds as a reason to continue learning."
+    sources: [SRC-CHAT-GRAD-MOTIVATION]
+    source_type: applicant_account
+    verification_status: owner_reported
+    owner_confirmation: confirmed_by_owner
+    allowed_use: working_context
+    restrictions: "Do not reduce this to generic networking."
+  - id: BRA-002
+    statement: "In the Brazil exchange-rate project, a teammate questioned immediate intervention. The applicant initially worried about inflation and instability, read the literature, accepted a conditional interpretation allowing exchange-rate adjustment under specific conditions and incorporated it into the final presentation."
+    sources: [SRC-CHAT-BRAZIL]
+    source_type: applicant_account
+    verification_status: owner_reported
+    owner_confirmation: confirmed_by_owner
+    allowed_use: working_context
+    restrictions: "Do not invent dialogue, the exact policy model or a general intervention conclusion."
+  - id: WES-001
+    statement: "A reviewed WES screenshot shows an iGPA Calculator result of 3.58/4.00."
+    sources: [SRC-CHAT-WES]
+    source_type: applicant_account
+    verification_status: owner_reported
+    owner_confirmation: confirmed_by_owner
+    allowed_use: working_context
+    restrictions: "This is a calculator result, not a formal WES credential-evaluation GPA."
+  - id: DRG-003
+    statement: "The applicant identified Hong Kong land scarcity and high charging-infrastructure costs as constraints on electric-vehicle adoption."
+    sources: [SRC-CHAT-FINANCE]
+    source_type: applicant_account
+    verification_status: owner_reported
+    owner_confirmation: confirmed_by_owner
+    allowed_use: working_context
+    restrictions: "This records a problem observed, not a proposed solution or final recommendation."
+  - id: PM-004
+    statement: "After a mentor withdrew, the applicant confirmed working with another coordinator to divide affected students evenly and discussing whether to seek another mentor."
+    sources: [SRC-CHAT-PEER]
+    source_type: applicant_account
+    verification_status: owner_reported
+    owner_confirmation: confirmed_by_owner
+    allowed_use: working_context
+    restrictions: "The eventual recruitment result is unresolved. Keep participants anonymous."
+  - id: UCL-001
+    statement: "The applicant confirmed a five-part UCL MFin personal-statement structure: simplified ICBC opening, Greater Boston housing project, Founder Securities leading into independent ETF research, UCL learning goals and career plan."
+    sources: [SRC-CHAT-UCL-STRUCTURE]
+    source_type: applicant_account
+    verification_status: owner_reported
+    owner_confirmation: confirmed_by_owner
+    allowed_use: working_context
+    restrictions: "Dragon Rise is not an approved sixth paragraph."

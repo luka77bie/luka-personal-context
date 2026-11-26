@@ -15,3 +15,6 @@
 | Career sequence | On 19 November he prioritised equity research and company fundamentals, then multi-asset research. On 22 November interview practice named private equity as a future goal. | Keep equity research as the confirmed immediate priority and private equity as exploratory until he explicitly reconciles the sequence. |
 
 See [Degree conventions](academic-record.md) for dates and official records. See [Working and learning style](../profile/working-and-learning-style.md) and [Writing voice](../profile/voice.md) for work habits and sample authorship.
+
+
+| Application-context boundary | Latest Cornell, UCL and review discussions | Keep the confirmed motivation and Brazil episode, but do not promote WES calculator results, assistant-drafted HKU answers, unconfirmed Dragon Rise details or ETF emotional reactions into established facts. |

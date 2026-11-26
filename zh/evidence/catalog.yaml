@@ -83,3 +83,28 @@ sources:
     kind: applicant_chat_account
     locator: "2026-11-22 研究生面试练习。"
     scope: "记录探索性职业表述和口语练习偏好。未核对前不覆盖另行确认的职业重点。"
+
+  - id: SRC-CHAT-GRAD-MOTIVATION
+    kind: applicant_chat_account
+    locator: "2026-11-22 和 2026-11-25 关于方法训练与协作动机的研究生申请讨论。"
+    scope: "本人确认的动机框架。保留两条动机，不把综合表述写成固定句子。"
+  - id: SRC-CHAT-BRAZIL
+    kind: applicant_chat_account
+    locator: "2026-11-25 Cornell 批注复核中的巴西汇率项目讨论。"
+    scope: "本人确认的队友提问、文献查阅和条件性解释场景。保持队友匿名。"
+  - id: SRC-CHAT-UCL-STRUCTURE
+    kind: applicant_chat_account
+    locator: "2026-11-22 UCL 个人陈述批注及后续复核。"
+    scope: "本人确认的五段结构。Dragon Rise 不是已经确认的第六段。"
+  - id: SRC-CHAT-WES
+    kind: applicant_chat_account
+    locator: "2026-11-25 WES 截图复核。"
+    scope: "本人提供的 iGPA Calculator 结果为 3.58/4.00，不是正式认证报告 GPA。"
+  - id: SRC-CHAT-HKU
+    kind: applicant_chat_account
+    locator: "2026-11-25 HKU 补充回答复核。"
+    scope: "许多第一人称回答由助手代拟，未经逐项确认不得提升为本人事实。"
+  - id: SRC-CHAT-WRITING-LATEST
+    kind: applicant_preferences
+    locator: "2026-11-25 申请写作反馈以及 Cornell/UCL 复核。"
+    scope: "本人确认保留思路、写实际行动和判断、避免套话式总结并使用英式拼写。"

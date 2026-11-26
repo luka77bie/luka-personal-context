@@ -2,7 +2,7 @@
 
 [Home](../../README.md) · [简体中文](../../../zh/experiences/research/etf-rotation.md)
 
-On 17 November he explained the test as asking whether attention distinguished future returns among ETFs with similar price momentum. Across four walk-forward folds, the 60-day momentum baseline and attention model returned 22.21% and 21.46% annualised, with Sharpe ratios of 0.859 and 0.838 respectively. He kept the baseline. His first check remains unknown. ETF-001 and ETF-002. [Project results](https://github.com/luka77bie/narrative-aware-etf-rotation#walk-forward-out-of-sample-evaluation)
+On 17 November he explained the test as asking whether attention distinguished future returns among ETFs with similar price momentum. Across four walk-forward folds, the 60-day momentum baseline and attention model returned 22.21% and 21.46% annualised, with Sharpe ratios of 0.859 and 0.838 respectively. He kept the baseline. His first check remains unknown, and the immediate psychological reaction is not independently supported; do not add one. ETF-001 and ETF-002. [Project results](https://github.com/luka77bie/narrative-aware-etf-rotation#walk-forward-out-of-sample-evaluation)
 
 **Scope.** Independent quantitative research. See [Founder Securities](../internships/founder.md) for the earlier placement exploration. Sources SRC-CV, SRC-ADVISOR and SRC-ETF-REPO. Claim ETF-001.
 

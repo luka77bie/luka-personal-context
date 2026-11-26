@@ -15,3 +15,8 @@ For interview practice, begin with simple questions and answers of two or three 
 | Another applicant’s sample | Use for genre or prompt context. Keep it separate from his facts, stories and voice samples |
 
 Record the sample, language, purpose, author, AI assistance, confirmation date and why he liked or disliked it. Confirm authorship and revision history for earlier statements and the adviser packet.
+
+
+## Latest confirmed constraints
+
+Preserve Jiacheng's reasoning. Show concrete actions and judgements rather than labels such as “critical thinking” or “leadership”. Do not append a generic growth sentence to every paragraph. Avoid repeated “not only ... but also” constructions and Chinese-translated long sentences. Use British spelling unless a school requires otherwise. SRC-CHAT-WRITING-LATEST.

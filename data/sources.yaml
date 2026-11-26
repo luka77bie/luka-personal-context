@@ -83,3 +83,28 @@ sources:
     kind: applicant_chat_account
     locator: "2026-11-22 graduate interview practice."
     scope: "Exploratory career wording and spoken-answer preferences. Do not override separately confirmed career priorities without checking."
+
+  - id: SRC-CHAT-GRAD-MOTIVATION
+    kind: applicant_chat_account
+    locator: "2026-11-22 and 2026-11-25 graduate-application discussions about methodological training and collaboration."
+    scope: "Owner-confirmed motivation framing. Keep both motivations without turning the synthesis into a fixed sentence."
+  - id: SRC-CHAT-BRAZIL
+    kind: applicant_chat_account
+    locator: "2026-11-25 Cornell annotation review of the Brazil exchange-rate project."
+    scope: "Owner-confirmed episode about a teammate's intervention question, literature review and conditional interpretation. Keep the teammate anonymous."
+  - id: SRC-CHAT-UCL-STRUCTURE
+    kind: applicant_chat_account
+    locator: "2026-11-22 UCL personal-statement annotation and follow-up review."
+    scope: "Owner-confirmed five-part structure. Dragon Rise is not an approved sixth paragraph."
+  - id: SRC-CHAT-WES
+    kind: applicant_chat_account
+    locator: "2026-11-25 WES screenshot review."
+    scope: "Owner reports an iGPA Calculator result of 3.58/4.00. It is not a formal credential-evaluation GPA."
+  - id: SRC-CHAT-HKU
+    kind: applicant_chat_account
+    locator: "2026-11-25 HKU supplementary-answer review."
+    scope: "Many first-person answers were assistant-drafted. Do not promote them into confirmed facts without item-level confirmation."
+  - id: SRC-CHAT-WRITING-LATEST
+    kind: applicant_preferences
+    locator: "2026-11-25 application-writing feedback and Cornell/UCL review."
+    scope: "Owner-confirmed preference to preserve reasoning, show concrete actions and judgements, avoid formulaic summaries and use British spelling."

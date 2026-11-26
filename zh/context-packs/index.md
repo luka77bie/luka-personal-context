@@ -10,3 +10,5 @@
 | 社群与领导力 | [社群与领导力](community-and-leadership.md) |
 
 每个包是某次材料版本的派生摘要。使用时先确认适用范围，涉及正式成绩、岗位日期或新进展时查原记录。[首版精简背景](core-context.md)
+
+| 最新确认的申请背景 | [最新申请背景](latest-application-context.md) |

@@ -6,7 +6,7 @@ On 12 October, after a mentor withdrew, he notified six mentors that they would 
 
 **Role.** Student Coordinator, 2026/27. Sources SRC-APPLICANT, SRC-ADVISOR and SRC-CORNELL-PS. Claims PM-001 and PM-002.
 
-**Coordination.** Worked with another coordinator and the scheme contact on mentor allocations, group identifiers, registers and session follow-up. After a mentor withdrew, he sent reassignment notices. Reconciliation of missing records was a separate task.
+**Coordination.** After a mentor withdrew, he worked with another coordinator to divide the affected students evenly and discussed with the scheme contact whether to continue seeking another mentor. The eventual recruitment result remains unresolved. He also handled mentor allocations, group identifiers, registers and session follow-up.
 
 **Explaining quantitative work.** A draft describes explaining variable roles, model specification and significance tests in an RStudio ARDL exercise. Check the interaction and learner response before using it.
 

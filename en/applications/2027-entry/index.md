@@ -14,3 +14,5 @@ Start with the [Application strategy](application-strategy.md) and [Programme tr
 Use the same structure for new programmes. Under each essay, record the applicant’s outline, draft location, scope of review and final version as available. Compare public instructions with the live portal, and identify pending items.
 
 [Programme summary](../README.md)
+
+| UCL MSc Finance | Personal-statement structure confirmed; five-part outline recorded | [Application strategy](application-strategy.md) · [Structure notes](programmes/ucl-mfin/structure.md) |

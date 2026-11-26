@@ -8,7 +8,7 @@
 
 **Contribution.** Materials identify him as lead of a five-person team, helping define the framework, integrate analysis and handle multisource indicators. The CV describes RStudio and Excel work on definitions, data frequencies, visualisation and regressions or VAR. Verify the final model and results in the course report.
 
-**Possible example.** A draft moves from textbook transmission channels to data comparability and policy context. Verify one variable the team aligned and how it agreed on the approach. Dialogue and reactions require firsthand evidence.
+**Confirmed collaboration episode.** A teammate questioned whether immediate government intervention was necessary. Jiacheng initially worried about inflation and instability. After reading the literature, he accepted a conditional interpretation in which exchange-rate adjustment could be appropriate under specific conditions and incorporated it into the final presentation. Keep the teammate anonymous; do not invent dialogue or generalise this into a settled policy conclusion.
 
 **Scope.** Attribute group findings to the team. A dynamic regression association alone does not identify a causal shock.
 

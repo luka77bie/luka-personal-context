@@ -12,3 +12,8 @@ One possible thread in the evidence is using economics to understand a mechanism
 - **Enterprise risk management.** The CFA prototype supports discussion of early warning, thresholds, data quality and governance. Confirm the specific risk issue and programme motivation.
 
 The [CV and adviser packet](../evidence/catalog.yaml) provides the original context. Confirm programme-specific motivations and trade-offs with the applicant.
+
+
+## Confirmed graduate-study motivations
+
+Keep both motivations visible. First, Jiacheng wants systematic methodological training: from estimating beta in a Finance Tutorial to extending ETF research, he recognised that using a method is different from judging whether its output is credible. Second, working with people from different countries and backgrounds on demanding projects is itself a reason to continue learning; discussion can make him reconsider an assumption. Do not reduce the second motivation to generic networking. SRC-CHAT-GRAD-MOTIVATION.

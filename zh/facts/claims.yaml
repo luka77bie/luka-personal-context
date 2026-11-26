@@ -195,3 +195,59 @@ claims:
     owner_confirmation: confirmed_by_owner
     allowed_use: working_context
     restrictions: "未重新确认前，不把它写成已经取代 11 月 19 日确认的股票研究与公司基本面短期重点。"
+
+  - id: MOT-001
+    statement: "本人希望获得系统的方法训练，因为会使用一种方法和判断输出是否可信并不是一回事。"
+    sources: [SRC-CHAT-GRAD-MOTIVATION]
+    source_type: applicant_account
+    verification_status: owner_reported
+    owner_confirmation: confirmed_by_owner
+    allowed_use: working_context
+  - id: MOT-002
+    statement: "本人把与不同国家、不同背景的人进行有挑战的合作视为继续学习的原因。"
+    sources: [SRC-CHAT-GRAD-MOTIVATION]
+    source_type: applicant_account
+    verification_status: owner_reported
+    owner_confirmation: confirmed_by_owner
+    allowed_use: working_context
+    restrictions: "不要把它压缩成泛泛的 networking。"
+  - id: BRA-002
+    statement: "在巴西汇率项目中，一位队友提出政府未必需要立即干预。本人起初担心通胀和不稳定，查阅文献后接受特定条件下允许汇率调整的解释，并纳入最终展示。"
+    sources: [SRC-CHAT-BRAZIL]
+    source_type: applicant_account
+    verification_status: owner_reported
+    owner_confirmation: confirmed_by_owner
+    allowed_use: working_context
+    restrictions: "不补写对话、具体政策模型或一般性的干预结论。"
+  - id: WES-001
+    statement: "复核的 WES 截图显示 iGPA Calculator 结果为 3.58/4.00。"
+    sources: [SRC-CHAT-WES]
+    source_type: applicant_account
+    verification_status: owner_reported
+    owner_confirmation: confirmed_by_owner
+    allowed_use: working_context
+    restrictions: "这是计算器结果，不是正式 WES 认证报告 GPA。"
+  - id: DRG-003
+    statement: "本人指出香港土地稀缺和充电基础设施成本较高可能约束电动车普及。"
+    sources: [SRC-CHAT-FINANCE]
+    source_type: applicant_account
+    verification_status: owner_reported
+    owner_confirmation: confirmed_by_owner
+    allowed_use: working_context
+    restrictions: "只记录观察到的问题，不代表提出了解决方案或最终建议。"
+  - id: PM-004
+    statement: "导师退出后，本人确认与另一位协调员平均分配受影响学生，并商量是否继续寻找新导师。"
+    sources: [SRC-CHAT-PEER]
+    source_type: applicant_account
+    verification_status: owner_reported
+    owner_confirmation: confirmed_by_owner
+    allowed_use: working_context
+    restrictions: "最终招募结果未确认，保持参与者匿名。"
+  - id: UCL-001
+    statement: "本人确认 UCL MFin 个人陈述五段结构：简化工行开头、大波士顿住房项目、方正证券引出独立 ETF 研究、UCL 学习目标和职业规划。"
+    sources: [SRC-CHAT-UCL-STRUCTURE]
+    source_type: applicant_account
+    verification_status: owner_reported
+    owner_confirmation: confirmed_by_owner
+    allowed_use: working_context
+    restrictions: "Dragon Rise 不是已经确认的第六段。"

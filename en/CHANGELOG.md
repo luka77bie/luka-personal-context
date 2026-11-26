@@ -31,3 +31,7 @@ Both editions contain the full personal context, application methods, programme 
 - Added experience records for coursework, independent research, internships, competitions and campus activities.
 - Added 2027 programme briefs, fit notes, a statement review method and a compact background summary.
 - The applicant holds the original materials. The relevant records identify outstanding checks and writing sample needs.
+
+## 26 November 2026 · Latest application context sync
+
+Added the two-part graduate-study motivation, the confirmed Brazil collaboration episode, the five-part UCL MFin structure, writing constraints, WES calculator boundary, HKU draft-authorship boundary, Dragon Rise adoption constraint and Peer Mentoring coordination boundary. Added a task-specific context pack and mirrored all updates in Chinese.

@@ -8,7 +8,7 @@ On 21 November he identified vehicle purchase timing, financing costs and RMB/HK
 
 **Work.** Supported analysis of listed-company disclosures and financial indicators and preliminary Hong Kong commercial taxi electrification research. The CV describes purchase, financing, operations and RMB/HKD scenarios. The study considered subsidies, owner adoption, financing and charging or battery-swapping services.
 
-**Possible example.** Use a specific assumption or sensitivity comparison to connect cash flow with real conditions for adoption.
+**Confirmed observation.** The Hong Kong electrification discussion identified land scarcity and costly charging infrastructure as constraints that can affect electric-vehicle adoption. This records a problem observed, not a proposed solution or final recommendation. NPV wording and any specific company example still require confirmation.
 
 **Scope.** Analysis and preliminary research. Internal amounts, relative investment returns and final investment decisions are outside the evidence for external use.
 
